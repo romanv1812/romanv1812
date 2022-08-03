@@ -18,6 +18,14 @@
 
 
 
+
+
+
+
+
+
+
+
 #### :earth_africa: Location - Hetzner DS, Equinix, Ovhcloud, Digitalocean 
 * Processor - AMD Ryzen 5950X (32 CPU, 128 RAM) 
 * Memory - 6.8 TB NVMe 
@@ -43,7 +51,7 @@
 
 
 
-
+[<img src='https://user-images.githubusercontent.com/83868103/182724431-f0ef8d7d-ad52-4bad-a45c-f39efb019eca.svg' alt='umee' height='50'>](https://umee.explorers.guru/validator/umeevaloper1wj6p0rgdpy8kkj3xa7e8t0g9tn9nyw4hltw2z2)
 
 
 
