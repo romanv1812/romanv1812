@@ -17,17 +17,27 @@ Here are some ideas to get you started:
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&center=true&vCenter=true&height=20&lines=Hello+there!;Wellcome+to+my+profile!" alt="Typing SVG" /></a>
 </p>
 
-| I am an individual validator from Ukraine. I have extensive experience as a Linux administrator and over 2 years of working with nodes on Cosmos and Polkadot networks. Secure and reliable individual PoS/PoW validator, crypto enthusiast. 24hr management & monitoring! (Grafana & Prometeus & Telegram alerts) |![png-transparent-light-andromeda-galaxy-outer-space-sky-cosmos-atmosphere-computer-wallpaper-color](https://user-images.githubusercontent.com/83868103/182700219-dcb095c9-24b1-4c14-85ca-c248860047cc.png)
- |
-|:---------:|:---------:|
-
-<div class="snippet_two_col">
-    <p>На пике популярности — вываренный, как в кооперативные восьмидесятые, деним. Из него шьют и джинсы, и куртки, которые можно носить и друг с другом, и с топами того же голубого цвета, а серебристые аксессуары и бижутерия сделают образ праздничным. <br/> Она и выглядит по-парижски — натуральный макияж, волосы небрежно распущены по плечам, маленькое черное платье и ботинки Chanel. Полное ощущение, что она не прикладывала никаких усилий, когда собиралась на встречу: собственно, это мы и называем парижским шиком.</p>
+ <table width="100%" cellspacing="0">
+   <tr>
+    <td width="1500" cellspacing="0">
+     My name is Roman, I am an individual validator from Ukraine. I have extensive experience as a Linux administrator and over 2 years of working with nodes on Cosmos and Polkadot networks. Secure and reliable individual PoS/PoW validator, crypto enthusiast. 24hr management & monitoring! (Grafana & Prometeus & Telegram alerts)
+    </td>
+    <td width="2000">Правая колонка
+    </td>
+   </tr>
+  </table>
+  
+#
+<p align="left">
+My name is Roman, I am an individual validator from Ukraine. I have extensive experience as a Linux administrator and over 2 years of working with nodes on Cosmos and Polkadot networks. Secure and reliable individual PoS/PoW validator, crypto enthusiast. 24hr management & monitoring! (Grafana & Prometeus & Telegram alerts)
+</p>
+***My name is Roman, I am an individual validator from Ukraine. I have extensive experience as a Linux administrator and over 2 years of working with nodes on Cosmos and Polkadot networks. Secure and reliable individual PoS/PoW validator, crypto enthusiast. 24hr management & monitoring! (Grafana & Prometeus & Telegram alerts)***
+<div class="text">
+<h1>Заголовок</h1>
+<p>Lorem Ipsum - это текст-"рыба", часто используемый в печати и вэб-дизайне. Lorem Ipsum является стандартной "рыбой" для текстов на латинице с начала XVI века. В то время некий безымянный печатник создал большую коллекцию размеров и форм шрифтов, используя Lorem Ipsum для распечатки образцов. Lorem Ipsum не только успешно пережил без заметных изменений пять веков, но и перешагнул в электронный дизайн. Его популяризации в новое время послужили публикация листов Letraset с образцами Lorem Ipsum в 60-х годах и, в более недавнее время, программы электронной вёрстки типа Aldus PageMaker, в шаблонах которых используется Lorem Ipsum.</p>
 </div>
 
 #
-
-#### I am an individual validator from Ukraine. I have extensive experience as a Linux administrator and over 2 years of working with nodes on Cosmos and Polkadot networks. Secure and reliable individual PoS/PoW validator, crypto enthusiast. 24hr management & monitoring! (Grafana & Prometeus & Telegram alerts)
 
 ### :hammer: Hardware:
 
@@ -35,11 +45,6 @@ Here are some ideas to get you started:
 * Processor - AMD Ryzen 5950X (32 CPU, 128 RAM) 
 * Memory - 6.8 TB NVMe 
 * Bandwidth - 1 Gbit/s-Port
-
-
-| I am an individual validator from Ukraine. I have extensive experience as a Linux administrator and over 2 years of working with nodes on Cosmos and Polkadot networks. Secure and reliable individual PoS/PoW validator, crypto enthusiast. 24hr management & monitoring! (Grafana & Prometeus & Telegram alerts) | <img width="3530" alt="Снимок экрана 2022-08-03 в 23 08 26" src="https://user-images.githubusercontent.com/83868103/182699596-ffa0cc93-6300-4e4b-b6bd-ece6e9264582.png"> |
-|:---------:|:---------:|
-
 
 ### [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Mainnets)](https://git.io/typing-svg)
 |   **[UMEE](https://umee.explorers.guru/validator/umeevaloper1wj6p0rgdpy8kkj3xa7e8t0g9tn9nyw4hltw2z2)**  | **[NYM](https://mixnet.explorers.guru/mixnode/8fVEYyzsr6xWbgWv19CqiiAWr3ocskn3DU65MNSbQH2q)** | **[MISES](https://portal.mises.site/validator/misesvaloper1js09j57nge6yqphe9wvr8kp70le3wqg28qu0ga)** | **[CHRONIC](https://chronic.zenscan.io/validator.php?addr=chronicvaloper137hvjj8njj8pp6grtmd980am4fa9apywn5wrvq)** | **[DIG](https://look.chillvalidation.com/dig/staking/digvaloper17uf22fvmsg4r54hyxk7j9mxeq0y97fd86507z6)** |
