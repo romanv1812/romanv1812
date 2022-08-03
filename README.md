@@ -24,7 +24,7 @@ Memory - 6.8 TB NVMe
 Bandwidth - 1 Gbit/s-Port
 ```
 
-### Mainnets:
+### Mainnets :hammer:
 
 :small_blue_diamond: Umee - [Umee Explorer](https://umee.explorers.guru/validator/umeevaloper1wj6p0rgdpy8kkj3xa7e8t0g9tn9nyw4hltw2z2) 
 * Nym - https://mixnet.explorers.guru/mixnode/8fVEYyzsr6xWbgWv19CqiiAWr3ocskn3DU65MNSbQH2q
