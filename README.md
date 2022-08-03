@@ -25,11 +25,13 @@ Bandwidth - 1 Gbit/s-Port
 ```
 
 ### Mainnets:
+```
 - Umee - [Umee Explorer](https://umee.explorers.guru/validator/umeevaloper1wj6p0rgdpy8kkj3xa7e8t0g9tn9nyw4hltw2z2) 
 + Nym - https://mixnet.explorers.guru/mixnode/8fVEYyzsr6xWbgWv19CqiiAWr3ocskn3DU65MNSbQH2q
 * Mises - https://portal.mises.site/validator/misesvaloper1js09j57nge6yqphe9wvr8kp70le3wqg28qu0ga
 Chronic - https://chronic.zenscan.io/validator.php?addr=chronicvaloper137hvjj8njj8pp6grtmd980am4fa9apywn5wrvq
 Dig - https://look.chillvalidation.com/dig/staking/digvaloper17uf22fvmsg4r54hyxk7j9mxeq0y97fd86507z6
+```
 
 ### Active Testnets:
 Near - https://explorer.shardnet.near.org/accounts/romanv1812.factory.shardnet.near
