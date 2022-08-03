@@ -13,9 +13,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<span style="display:block;text-align:center">!
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=18&color=B491F7&lines=Hello+there;Wellcome+to+my+profile" alt="Typing SVG" /></a>
-</span>
+<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=18&color=B491F7&lines=Hello+there;Wellcome+to+my+profile" alt="Typing SVG" /></a>
+</p>
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=18&color=B491F7&lines=Hello+there;Wellcome+to+my+profile" alt="Typing SVG" /></a>
 
