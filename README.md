@@ -13,14 +13,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### Bio:
-**I am an individual validator from Ukraine. I have extensive experience as a Linux administrator and over 2 years of working with nodes on Cosmos and Polkadot networks. 
-Secure and reliable individual PoS/PoW validator, crypto enthusiast. 24hr management & monitoring! (Grafana + Prometeus + Telegram alerts)**
+> I am an individual validator from Ukraine. I have extensive experience as a Linux administrator and over 2 years of working with nodes on Cosmos and Polkadot networks. 
+> Secure and reliable individual PoS/PoW validator, crypto enthusiast. 24hr management & monitoring! (Grafana + Prometeus + Telegram alerts)**
 
 ### Hardware:
-Location - Hetzner DS, Equinix, Ovhcloud, Digitalocean 
-Processor - AMD Ryzen 5950X (32 CPU, 128 RAM) 
-Memory - 6.8 TB NVMe 
-Bandwidth - 1 Gbit/s-Port
+> Location - Hetzner DS, Equinix, Ovhcloud, Digitalocean 
+> Processor - AMD Ryzen 5950X (32 CPU, 128 RAM) 
+> Memory - 6.8 TB NVMe 
+> Bandwidth - 1 Gbit/s-Port
 
 ### Mainnets:
 - Umee - [Umee Explorer](https://umee.explorers.guru/validator/umeevaloper1wj6p0rgdpy8kkj3xa7e8t0g9tn9nyw4hltw2z2) 
