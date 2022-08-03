@@ -27,8 +27,9 @@ Here are some ideas to get you started:
 * Processor - AMD Ryzen 5950X (32 CPU, 128 RAM) 
 * Memory - 6.8 TB NVMe 
 * Bandwidth - 1 Gbit/s-Port
-
-
+|:---------:|:---------:|
+| I am an individual validator from Ukraine. I have extensive experience as a Linux administrator and over 2 years of working with nodes on Cosmos and Polkadot networks. Secure and reliable individual PoS/PoW validator, crypto enthusiast. 24hr management & monitoring! (Grafana & Prometeus & Telegram alerts) | [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/romanv1812)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/@romanv1812)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg' alt='medium' height='40'>](https://medium.com/@romanv1812)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg' alt='discord' height='40'>](romanv1812#6131)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg' alt='telegram' height='40'>](https://t.me/romanv1812)  |
+|:---------:|:---------:|
 ### [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Mainnets)](https://git.io/typing-svg)
 |   **[UMEE](https://umee.explorers.guru/validator/umeevaloper1wj6p0rgdpy8kkj3xa7e8t0g9tn9nyw4hltw2z2)**  | **[NYM](https://mixnet.explorers.guru/mixnode/8fVEYyzsr6xWbgWv19CqiiAWr3ocskn3DU65MNSbQH2q)** | **[MISES](https://portal.mises.site/validator/misesvaloper1js09j57nge6yqphe9wvr8kp70le3wqg28qu0ga)** | **[CHRONIC](https://chronic.zenscan.io/validator.php?addr=chronicvaloper137hvjj8njj8pp6grtmd980am4fa9apywn5wrvq)** | **[DIG](https://look.chillvalidation.com/dig/staking/digvaloper17uf22fvmsg4r54hyxk7j9mxeq0y97fd86507z6)** |
 |:---------:|:---------:|:---------:|:---------:|:---------:|
