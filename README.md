@@ -1,32 +1,41 @@
-<!--
-**romanv1812/romanv1812** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&center=true&vCenter=true&height=20&lines=Hello+there!;Wellcome+to+my+profile!" alt="Typing SVG" /></a>
 </p>
 
+#
+[<img src='https://user-images.githubusercontent.com/83868103/182711859-e4aedb98-61e5-4ee6-b305-d84bb901d622.svg' alt='discord' height='40'>](https://discordapp.com/users/303453296755212288)  
+
+[<img src='https://user-images.githubusercontent.com/83868103/182712097-361450ab-3ae1-4f8e-be2c-e6f8dcff6879.svg' alt='twitter' height='40'>](https://twitter.com/romanv1812) 
+
+[<img src='https://user-images.githubusercontent.com/83868103/182712229-33a1bffc-8e96-41b8-8ffd-952725f900f3.svg' alt='telegram height='40'>](https://t.me/romanv1812) 
+
+
+
+
+
+
+
+
+
+![icons8-телеграмма-app](https://user-images.githubusercontent.com/83868103/182712229-33a1bffc-8e96-41b8-8ffd-952725f900f3.svg)
+
+
  <table width="100%" cellspacing="0">
    <tr>
-    <td width="1500" cellspacing="0">
+    <td width="40%" cellspacing="0">
      My name is Roman, I am an individual validator from Ukraine. I have extensive experience as a Linux administrator and over 2 years of working with nodes on Cosmos and Polkadot networks. Secure and reliable individual PoS/PoW validator, crypto enthusiast. 24hr management & monitoring! (Grafana & Prometeus & Telegram alerts)
     </td>
-    <td width="2000">Правая колонка
+    <td width="60%">
+    * Processor - AMD Ryzen 5950X (32 CPU, 128 RAM)
+
+    * Memory - 6.8 TB NVMe 
+    * Bandwidth - 1 Gbit/s-Port
     </td>
    </tr>
   </table>
-  
+  [<img src='https://img.icons8.com/nolan/344/github.png' alt='github' height='40'>](https://github.com/romanv1812)  
+  [<img src='https://img.icons8.com/nolan/344/discord-logo.png' alt='github' height='40'>](https://github.com/romanv1812)  
+   [<img src='https://img.icons8.com/nolan/344/email-sign.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/sad/)  
 #
 <p align="left">
 My name is Roman, I am an individual validator from Ukraine. I have extensive experience as a Linux administrator and over 2 years of working with nodes on Cosmos and Polkadot networks. Secure and reliable individual PoS/PoW validator, crypto enthusiast. 24hr management & monitoring! (Grafana & Prometeus & Telegram alerts)
