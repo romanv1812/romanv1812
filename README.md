@@ -24,8 +24,8 @@
 > ### Social:
 > [<img src='https://user-images.githubusercontent.com/83868103/182711859-e4aedb98-61e5-4ee6-b305-d84bb901d622.svg' alt='discord' height='50'>](https://discordapp.com/users/303453296755212288) [<img src='https://user-images.githubusercontent.com/83868103/182714295-ba5b1ae4-aa6f-4705-babf-d1e6e7286242.svg' alt='twitter' height='50'>](https://twitter.com/romanv1812) [<img src='https://user-images.githubusercontent.com/83868103/182712804-54fdc9c9-ae3f-449e-af38-26e5fb9f88b2.svg' alt='telegram' height='50'>](https://t.me/romanv1812) [<img src='https://user-images.githubusercontent.com/83868103/182713364-07dc932a-fbc9-45d5-8db7-74fe84ee302c.svg' alt='gmail' height='50'>](romanv1812@gmail.com) [<img src='https://user-images.githubusercontent.com/83868103/182713942-afbee5f7-cb22-4221-a755-e2d9914ea107.svg' alt='medium' height='50'>](https://medium.com/@romanv1812)
 #
-### Active Testnets:
-:small_orange_diamond: Near - https://explorer.shardnet.near.org/accounts/romanv1812.factory.shardnet.near
+> ### Active Testnets:
+> :small_orange_diamond: Near - https://explorer.shardnet.near.org/accounts/romanv1812.factory.shardnet.near
 :small_orange_diamond: Aptos - https://explorer.devnet.aptos.dev/account/e77c701d1c3c4c0a02e15e8bb894714b0b6656ed7c82539990c88564bfec9771
 :small_orange_diamond: Stride - https://poolparty.stride.zone/STRIDE/staking/stridevaloper1drnsf7zuqy4vxghwf5pcv48ch89zpcf0jg09ej
 :small_orange_diamond: Bundlr - https://bundlr.network/explorer/Ry2bDGfBIvYtvDPYnf0eg_ijH4A1EDKaaEEecyjbUQ4
@@ -40,15 +40,5 @@
 :small_orange_diamond: Celestia - https://celestia.explorers.guru/validator/celestiavaloper1r4g3aey38d2a5hnc2a9j2hlnju6nyuprxerm59
 :small_orange_diamond: IronFish - https://testnet.ironfish.network/users/1385
 
-### Completed or pending update projects:
-Humanode, Kujira, Masa, Massa, Minima, Oasys, SubSpace, Kira, Celestia, Defund, Gnoland, Idep, Pylons, Quai, Aleo, BitCountry, Chainflip, Evmos, Pontem, Porta, Rizon, Umee, Zeitgeist.
-
-### Socials:
-* GitHub - https://github.com/romanv1812 
-* Twitter - https://twitter.com/romanv1812 
-* Telegram - https://t.me/romanv1812 
-* Discord - romanv1812#6131
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/romanv1812)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/@romanv1812)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg' alt='medium' height='40'>](https://medium.com/@romanv1812)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg' alt='discord' height='40'>](romanv1812#6131)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg' alt='telegram' height='40'>](https://t.me/romanv1812)  
-
-
+> ### Completed or pending update projects:
+> Humanode, Kujira, Masa, Massa, Minima, Oasys, SubSpace, Kira, Celestia, Defund, Gnoland, Idep, Pylons, Quai, Aleo, BitCountry, Chainflip, Evmos, Pontem, Porta, Rizon, Umee, Zeitgeist
