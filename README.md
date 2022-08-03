@@ -13,7 +13,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<span style="display:block;text-align:center">![![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=18&color=B491F7&center=%D0%9B%D0%9E%D0%96%D0%AC&vCenter=%D0%9B%D0%9E%D0%96%D0%AC&lines=Hello+there;Wellcome+to+my+profile)</span>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=18&color=B491F7&lines=Hello+there;Wellcome+to+my+profile)](https://git.io/typing-svg)
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=18&color=B491F7&lines=Hello+there;Wellcome+to+my+profile" alt="Typing SVG" /></a>
 
 <span style="display:block;text-align:center">![Test Automation]Automated-Testing.png)</span>
 
