@@ -26,9 +26,9 @@ Here are some ideas to get you started:
 ### Mainnets :hammer:
 
 > ##### :small_blue_diamond: Umee - [Umee Explorer](https://umee.explorers.guru/validator/umeevaloper1wj6p0rgdpy8kkj3xa7e8t0g9tn9nyw4hltw2z2) 
-> ##### :small_blue_diamond: Nym - https://mixnet.explorers.guru/mixnode/8fVEYyzsr6xWbgWv19CqiiAWr3ocskn3DU65MNSbQH2q
+> ##### :small_orange_diamond: Nym - https://mixnet.explorers.guru/mixnode/8fVEYyzsr6xWbgWv19CqiiAWr3ocskn3DU65MNSbQH2q
 > ##### :small_blue_diamond: Mises - https://portal.mises.site/validator/misesvaloper1js09j57nge6yqphe9wvr8kp70le3wqg28qu0ga
-> ##### :small_blue_diamond: Chronic - https://chronic.zenscan.io/validator.php?addr=chronicvaloper137hvjj8njj8pp6grtmd980am4fa9apywn5wrvq
+> ##### :small_orange_diamond: Chronic - https://chronic.zenscan.io/validator.php?addr=chronicvaloper137hvjj8njj8pp6grtmd980am4fa9apywn5wrvq
 > ##### :small_blue_diamond: Dig - https://look.chillvalidation.com/dig/staking/digvaloper17uf22fvmsg4r54hyxk7j9mxeq0y97fd86507z6
 
 
