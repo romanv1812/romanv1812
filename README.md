@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Bio:
+### Bio:
 I am an individual validator from Ukraine. I have extensive experience as a Linux administrator and over 2 years of working with nodes on Cosmos and Polkadot networks. 
 Secure and reliable individual PoS/PoW validator, crypto enthusiast. 24hr management & monitoring! (Grafana + Prometeus + Telegram alerts)
 
@@ -22,7 +22,7 @@ Processor - AMD Ryzen 5950X (32 CPU, 128 RAM)
 Memory - 6.8 TB NVMe 
 Bandwidth - 1 Gbit/s-Port
 
-# Mainnets:
+## Mainnets:
 Umee - https://umee.explorers.guru/validator/umeevaloper1wj6p0rgdpy8kkj3xa7e8t0g9tn9nyw4hltw2z2
 Nym - https://mixnet.explorers.guru/mixnode/8fVEYyzsr6xWbgWv19CqiiAWr3ocskn3DU65MNSbQH2q
 Mises - https://portal.mises.site/validator/misesvaloper1js09j57nge6yqphe9wvr8kp70le3wqg28qu0ga
