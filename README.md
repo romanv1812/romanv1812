@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ### :hammer: Hardware:
 
-### Location - Hetzner DS, Equinix, Ovhcloud, Digitalocean 
+#### Location - Hetzner DS, Equinix, Ovhcloud, Digitalocean 
 Processor - AMD Ryzen 5950X (32 CPU, 128 RAM) 
 Memory - 6.8 TB NVMe 
 Bandwidth - 1 Gbit/s-Port
