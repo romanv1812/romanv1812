@@ -13,8 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&lines=hey+mate;+I+would+like+to;introduce+myself)](https://git.io/typing-svg) <a href="https://twitter.com/romanv1812" target="_blank">Roman</a> 
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&lines=hey+mate;+I+would+like+to;introduce+myself)](https://git.io/typing-svg)
 #### I am an individual validator from Ukraine. I have extensive experience as a Linux administrator and over 2 years of working with nodes on Cosmos and Polkadot networks. Secure and reliable individual PoS/PoW validator, crypto enthusiast. 24hr management & monitoring! (Grafana & Prometeus & Telegram alerts)
 
