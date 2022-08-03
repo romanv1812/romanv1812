@@ -31,6 +31,11 @@ Here are some ideas to get you started:
 > **[CHRONIC](https://chronic.zenscan.io/validator.php?addr=chronicvaloper137hvjj8njj8pp6grtmd980am4fa9apywn5wrvq)** \
 > **[DIG](https://look.chillvalidation.com/dig/staking/digvaloper17uf22fvmsg4r54hyxk7j9mxeq0y97fd86507z6)**
 
+| CENTER | CENTER | RIGHT |
+|----------------|:---------:|----------------:|
+| По левому краю | По центру | По правому краю |
+| текст | текст | текст |
+
 
 ### Active Testnets:
 :small_orange_diamond: Near - https://explorer.shardnet.near.org/accounts/romanv1812.factory.shardnet.near
