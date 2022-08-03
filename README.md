@@ -2,10 +2,30 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=25&color=7C56F7&center=true&vCenter=true&height=30&lines=Hello+there!;Wellcome+to+my+profile!" alt="Typing SVG" /></a>
 </p>
 
+
 #
+### :bust_in_silhouette: Bio:
+#### My name is Roman, I am an individual validator from Ukraine.  \
+I have extensive experience as a Linux administrator and over 2 years of working with nodes  on Cosmos and Polkadot networks.  \
+Secure and reliable individual PoS/PoW validator, crypto enthusiast. 24hr management & monitoring! (Grafana & Prometeus & Telegram alerts)
 
 
-> **My name is Roman, I am an individual validator from Ukraine. I have extensive experience as a Linux administrator and over 2 years of working with nodes  on Cosmos and Polkadot networks. Secure and reliable individual PoS/PoW validator, crypto enthusiast. 24hr management & monitoring! (Grafana & Prometeus & Telegram alerts)**
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=25&color=7C56F7&height=30&lines=Hardware" alt="Typing SVG" /></a>
+<p align="center">
+#### :earth_africa: Location - Hetzner DS, Equinix, Ovhcloud, Digitalocean 
+* Processor - AMD Ryzen 5950X (32 CPU, 128 RAM) 
+* Memory - 6.8 TB NVMe 
+* Bandwidth - 1 Gbit/s-Port
+</p>
+
+| Hardware | Location | 
+|:---------:|:---------:|
+| Processor - AMD Ryzen 5950X (32 CPU, 128 RAM) | Hetzner DS |
+| Memory - 6.8 TB NVMe | Equinix |
+| Bandwidth - 1 Gbit/s-Port | Ovhcloud | 
+[<img src='https://user-images.githubusercontent.com/83868103/182711859-e4aedb98-61e5-4ee6-b305-d84bb901d622.svg' alt='discord' height='50'>](https://discordapp.com/users/303453296755212288) [<img src='https://user-images.githubusercontent.com/83868103/182714295-ba5b1ae4-aa6f-4705-babf-d1e6e7286242.svg' alt='twitter' height='50'>](https://twitter.com/romanv1812) [<img src='https://user-images.githubusercontent.com/83868103/182712804-54fdc9c9-ae3f-449e-af38-26e5fb9f88b2.svg' alt='telegram' height='50'>](https://t.me/romanv1812) [<img src='https://user-images.githubusercontent.com/83868103/182713364-07dc932a-fbc9-45d5-8db7-74fe84ee302c.svg' alt='gmail' height='50'>](romanv1812@gmail.com) [<img src='https://user-images.githubusercontent.com/83868103/182713942-afbee5f7-cb22-4221-a755-e2d9914ea107.svg' alt='medium' height='50'>](https://medium.com/@romanv1812) 
+
 
 
 
@@ -32,15 +52,11 @@
     </td>
     <td width="60%">
     * Processor - AMD Ryzen 5950X (32 CPU, 128 RAM)
-
     * Memory - 6.8 TB NVMe 
     * Bandwidth - 1 Gbit/s-Port
     </td>
    </tr>
   </table>
-  [<img src='https://img.icons8.com/nolan/344/github.png' alt='github' height='40'>](https://github.com/romanv1812)  
-  [<img src='https://img.icons8.com/nolan/344/discord-logo.png' alt='github' height='40'>](https://github.com/romanv1812)  
-   [<img src='https://img.icons8.com/nolan/344/email-sign.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/sad/)  
 #
 <p align="left">
 My name is Roman, I am an individual validator from Ukraine. I have extensive experience as a Linux administrator and over 2 years of working with nodes on Cosmos and Polkadot networks. Secure and reliable individual PoS/PoW validator, crypto enthusiast. 24hr management & monitoring! (Grafana & Prometeus & Telegram alerts)
