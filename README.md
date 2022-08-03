@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 > [NYM](https://mixnet.explorers.guru/mixnode/8fVEYyzsr6xWbgWv19CqiiAWr3ocskn3DU65MNSbQH2q) \
 > [MISES](https://portal.mises.site/validator/misesvaloper1js09j57nge6yqphe9wvr8kp70le3wqg28qu0ga) \
 > [CHRONIC](https://chronic.zenscan.io/validator.php?addr=chronicvaloper137hvjj8njj8pp6grtmd980am4fa9apywn5wrvq) \
-> [DIG](https://look.chillvalidation.com/dig/staking/digvaloper17uf22fvmsg4r54hyxk7j9mxeq0y97fd86507z6)
+> [DIG](https://look.chillvalidation.com/dig/staking/digvaloper17uf22fvmsg4r54hyxk7j9mxeq0y97fd86507z6) **
 
 
 ### Active Testnets:
