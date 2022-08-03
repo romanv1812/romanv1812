@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### **Bio**:
+**Bio**:
 I am an individual validator from Ukraine. I have extensive experience as a Linux administrator and over 2 years of working with nodes on Cosmos and Polkadot networks. 
 Secure and reliable individual PoS/PoW validator, crypto enthusiast. 24hr management & monitoring! (Grafana + Prometeus + Telegram alerts)
 
