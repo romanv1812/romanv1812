@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 * Bandwidth - 1 Gbit/s-Port
 
 
-### Mainnets :hammer:
+### [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Mainnets)](https://git.io/typing-svg)
 |   **[UMEE](https://umee.explorers.guru/validator/umeevaloper1wj6p0rgdpy8kkj3xa7e8t0g9tn9nyw4hltw2z2)**  | **[NYM](https://mixnet.explorers.guru/mixnode/8fVEYyzsr6xWbgWv19CqiiAWr3ocskn3DU65MNSbQH2q)** | **[MISES](https://portal.mises.site/validator/misesvaloper1js09j57nge6yqphe9wvr8kp70le3wqg28qu0ga)** | **[CHRONIC](https://chronic.zenscan.io/validator.php?addr=chronicvaloper137hvjj8njj8pp6grtmd980am4fa9apywn5wrvq)** | **[DIG](https://look.chillvalidation.com/dig/staking/digvaloper17uf22fvmsg4r54hyxk7j9mxeq0y97fd86507z6)** |
 |:---------:|:---------:|:---------:|:---------:|:---------:|
 
