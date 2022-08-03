@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&color=B491F7&height=40&lines=Hello+there;Wellcome+to+my+profile" alt="Typing SVG" /></a>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&color=B491F7&center=true&height=40&lines=Hello+there;Wellcome+to+my+profile)](https://git.io/typing-svg)
 </p>
 
 #
