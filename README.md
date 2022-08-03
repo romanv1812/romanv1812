@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=18&color=B491F7&center=true&lines=Hello+there;Wellcome+to+my+profile)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=18&color=B491F7&center=%D0%B8%D1%81%D1%82%D0%B8%D0%BD%D0%BD%D1%8B%D0%B9&vCenter=%D0%B8%D1%81%D1%82%D0%B8%D0%BD%D0%BD%D1%8B%D0%B9&width=800&lines=Hello+there;Wellcome+to+my+profile)](https://git.io/typing-svg)
 
 
 #### I am an individual validator from Ukraine. I have extensive experience as a Linux administrator and over 2 years of working with nodes on Cosmos and Polkadot networks. Secure and reliable individual PoS/PoW validator, crypto enthusiast. 24hr management & monitoring! (Grafana & Prometeus & Telegram alerts)
