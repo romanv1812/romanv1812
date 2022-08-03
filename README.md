@@ -5,14 +5,19 @@
 
 #
 ### :bust_in_silhouette: Bio:
-#### My name is Roman, I am an individual validator from Ukraine.  \
-I have extensive experience as a Linux administrator and over 2 years of working with nodes  on Cosmos and Polkadot networks.  \
-Secure and reliable individual PoS/PoW validator, crypto enthusiast. 24hr management & monitoring! (Grafana & Prometeus & Telegram alerts)
+> **My name is Roman, I am an individual validator from Ukraine.  
+> I have extensive experience as a Linux administrator and over 2 years of working with nodes  on Cosmos and Polkadot networks.  
+> Secure and reliable individual PoS/PoW validator, crypto enthusiast. 24hr management & monitoring! (Grafana & Prometeus & Telegram alerts)**
+#
+### :computer: Hardware:
+> :earth_africa: **Location - Hetzner DS, Equinix, Ovhcloud, Digitalocean   
+> :black_small_square: Processor - AMD Ryzen 5950X (32 CPU, 128 RAM)  
+> :black_small_square: Memory - 6.8 TB NVMe  
+> :black_small_square: Bandwidth - 1 Gbit/s-Port**
 
 
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=25&color=7C56F7&height=30&lines=Hardware" alt="Typing SVG" /></a>
-<p align="center">
+
 #### :earth_africa: Location - Hetzner DS, Equinix, Ovhcloud, Digitalocean 
 * Processor - AMD Ryzen 5950X (32 CPU, 128 RAM) 
 * Memory - 6.8 TB NVMe 
