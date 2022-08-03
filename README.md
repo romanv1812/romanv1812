@@ -59,3 +59,7 @@ Humanode, Kujira, Masa, Massa, Minima, Oasys, SubSpace, Kira, Celestia, Defund, 
 * Twitter - https://twitter.com/romanv1812 
 * Telegram - https://t.me/romanv1812 
 * Discord - romanv1812#6131
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/romanv1812)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/@romanv1812)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg' alt='medium' height='40'>](https://medium.com/@romanv1812)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg' alt='discord' height='40'>](romanv1812#6131)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg' alt='telegram' height='40'>](https://t.me/romanv1812)  
+
+
