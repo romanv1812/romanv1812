@@ -17,6 +17,14 @@ Here are some ideas to get you started:
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&center=true&vCenter=true&height=20&lines=Hello+there!;Wellcome+to+my+profile!" alt="Typing SVG" /></a>
 </p>
 
+| I am an individual validator from Ukraine. I have extensive experience as a Linux administrator and over 2 years of working with nodes on Cosmos and Polkadot networks. Secure and reliable individual PoS/PoW validator, crypto enthusiast. 24hr management & monitoring! (Grafana & Prometeus & Telegram alerts) |![png-transparent-light-andromeda-galaxy-outer-space-sky-cosmos-atmosphere-computer-wallpaper-color](https://user-images.githubusercontent.com/83868103/182700219-dcb095c9-24b1-4c14-85ca-c248860047cc.png)
+ |
+|:---------:|:---------:|
+
+<div class="snippet_two_col">
+    <p>На пике популярности — вываренный, как в кооперативные восьмидесятые, деним. Из него шьют и джинсы, и куртки, которые можно носить и друг с другом, и с топами того же голубого цвета, а серебристые аксессуары и бижутерия сделают образ праздничным. <br/> Она и выглядит по-парижски — натуральный макияж, волосы небрежно распущены по плечам, маленькое черное платье и ботинки Chanel. Полное ощущение, что она не прикладывала никаких усилий, когда собиралась на встречу: собственно, это мы и называем парижским шиком.</p>
+</div>
+
 #
 
 #### I am an individual validator from Ukraine. I have extensive experience as a Linux administrator and over 2 years of working with nodes on Cosmos and Polkadot networks. Secure and reliable individual PoS/PoW validator, crypto enthusiast. 24hr management & monitoring! (Grafana & Prometeus & Telegram alerts)
@@ -28,8 +36,8 @@ Here are some ideas to get you started:
 * Memory - 6.8 TB NVMe 
 * Bandwidth - 1 Gbit/s-Port
 
-|:---------:|:---------:|
-| I am an individual validator from Ukraine. I have extensive experience as a Linux administrator and over 2 years of working with nodes on Cosmos and Polkadot networks. Secure and reliable individual PoS/PoW validator, crypto enthusiast. 24hr management & monitoring! (Grafana & Prometeus & Telegram alerts) | [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/romanv1812)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/@romanv1812)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg' alt='medium' height='40'>](https://medium.com/@romanv1812)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg' alt='discord' height='40'>](romanv1812#6131)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg' alt='telegram' height='40'>](https://t.me/romanv1812) |
+
+| I am an individual validator from Ukraine. I have extensive experience as a Linux administrator and over 2 years of working with nodes on Cosmos and Polkadot networks. Secure and reliable individual PoS/PoW validator, crypto enthusiast. 24hr management & monitoring! (Grafana & Prometeus & Telegram alerts) | <img width="3530" alt="Снимок экрана 2022-08-03 в 23 08 26" src="https://user-images.githubusercontent.com/83868103/182699596-ffa0cc93-6300-4e4b-b6bd-ece6e9264582.png"> |
 |:---------:|:---------:|
 
 
