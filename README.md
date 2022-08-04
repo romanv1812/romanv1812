@@ -26,11 +26,9 @@
 #
 > ### Active Testnets:
 [<img src='https://raw.githubusercontent.com/near/nearcore/8ede15f1c310200adb7c27da4e78d76cc086a42c/docs/logo.svg' alt='umee' height='50'>](https://umee.explorers.guru/validator/umeevaloper1wj6p0rgdpy8kkj3xa7e8t0g9tn9nyw4hltw2z2)
-[<img src='https://user-images.githubusercontent.com/83868103/182802437-9479a1e6-fcdd-499f-8b32-7c0d2b1d2036.png' alt='umee' height='50'>](https://umee.explorers.guru/validator/umeevaloper1wj6p0rgdpy8kkj3xa7e8t0g9tn9nyw4hltw2z2)
-![image](https://user-images.githubusercontent.com/83868103/182802747-d6722b7f-88dd-4447-be4d-5fe16c7a2f9f.png)
+[<img src='https://user-images.githubusercontent.com/83868103/182802747-d6722b7f-88dd-4447-be4d-5fe16c7a2f9f.png' alt='umee' height='50'>](https://umee.explorers.guru/validator/umeevaloper1wj6p0rgdpy8kkj3xa7e8t0g9tn9nyw4hltw2z2)
 
 
-:small_orange_diamond: Aptos - https://explorer.devnet.aptos.dev/account/e77c701d1c3c4c0a02e15e8bb894714b0b6656ed7c82539990c88564bfec9771
 :small_orange_diamond: Stride - https://poolparty.stride.zone/STRIDE/staking/stridevaloper1drnsf7zuqy4vxghwf5pcv48ch89zpcf0jg09ej
 :small_orange_diamond: Bundlr - https://bundlr.network/explorer/Ry2bDGfBIvYtvDPYnf0eg_ijH4A1EDKaaEEecyjbUQ4
 :small_orange_diamond: Sei - https://sei.explorers.guru/validator/seivaloper1nx0nujc0j59japafz2ahhan08s4xme3vavjfxa
