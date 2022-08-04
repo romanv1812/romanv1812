@@ -28,15 +28,25 @@
 [<img src='https://raw.githubusercontent.com/near/nearcore/8ede15f1c310200adb7c27da4e78d76cc086a42c/docs/logo.svg' alt='umee' height='50'>](https://umee.explorers.guru/validator/umeevaloper1wj6p0rgdpy8kkj3xa7e8t0g9tn9nyw4hltw2z2)
 [<img src='https://user-images.githubusercontent.com/83868103/182802747-d6722b7f-88dd-4447-be4d-5fe16c7a2f9f.png' alt='umee' height='50'>](https://umee.explorers.guru/validator/umeevaloper1wj6p0rgdpy8kkj3xa7e8t0g9tn9nyw4hltw2z2)
 [<img src='https://user-images.githubusercontent.com/83868103/182803753-05db6b6b-1bc9-485b-82e3-b73b73250fd7.svg' alt='umee' height='50'>](https://umee.explorers.guru/validator/umeevaloper1wj6p0rgdpy8kkj3xa7e8t0g9tn9nyw4hltw2z2)
+[<img src='https://user-images.githubusercontent.com/83868103/182806507-b0a2718f-49c7-4777-ba81-f5178575e526.png' alt='umee' height='50'>](https://umee.explorers.guru/validator/umeevaloper1wj6p0rgdpy8kkj3xa7e8t0g9tn9nyw4hltw2z2)
+[<img src='https://user-images.githubusercontent.com/83868103/182806989-7c35c5a4-2ed3-4209-99e0-e94935f7a567.png' alt='umee' height='50'>](https://umee.explorers.guru/validator/umeevaloper1wj6p0rgdpy8kkj3xa7e8t0g9tn9nyw4hltw2z2)
+[<img src='https://user-images.githubusercontent.com/83868103/182807074-df41d69b-266e-4790-9242-76c37d7c744d.png' alt='umee' height='50'>](https://umee.explorers.guru/validator/umeevaloper1wj6p0rgdpy8kkj3xa7e8t0g9tn9nyw4hltw2z2)
+[<img src='https://user-images.githubusercontent.com/83868103/182807233-a44ca2c5-c9b5-4c92-932b-e5cf953d33f4.png' alt='umee' height='50'>](https://umee.explorers.guru/validator/umeevaloper1wj6p0rgdpy8kkj3xa7e8t0g9tn9nyw4hltw2z2)
+[<img src='https://user-images.githubusercontent.com/83868103/182808068-bdf5f8e5-1765-4277-9970-eb09cc131fb8.png' alt='umee' height='50'>](https://umee.explorers.guru/validator/umeevaloper1wj6p0rgdpy8kkj3xa7e8t0g9tn9nyw4hltw2z2)
 
-![62aa83f5a22e3f5e3e0d655f_stride-logo](https://user-images.githubusercontent.com/83868103/182803574-e3e6b804-8c42-4df1-aacb-e99a7afc99f1.svg)
-![62aa8e394b6bc81514893691_stride-logo-light](https://user-images.githubusercontent.com/83868103/182803753-05db6b6b-1bc9-485b-82e3-b73b73250fd7.svg)
 
-:small_orange_diamond: Stride - https://poolparty.stride.zone/STRIDE/staking/stridevaloper1drnsf7zuqy4vxghwf5pcv48ch89zpcf0jg09ej
-:small_orange_diamond: Bundlr - https://bundlr.network/explorer/Ry2bDGfBIvYtvDPYnf0eg_ijH4A1EDKaaEEecyjbUQ4
-:small_orange_diamond: Sei - https://sei.explorers.guru/validator/seivaloper1nx0nujc0j59japafz2ahhan08s4xme3vavjfxa
-:small_orange_diamond: Paloma - https://paloma.explorers.guru/validator/palomavaloper160q3jn6c8dh5w6d5svwre63243marut6kzadk4
-:small_orange_diamond: Quicksilver - https://quicksilver.explorers.guru/validator/quickvaloper1pvhzqfcpww0kcvm4wtvqesfp2llef0uke8agk5
+![image](https://user-images.githubusercontent.com/83868103/182806507-b0a2718f-49c7-4777-ba81-f5178575e526.png)
+![image](https://user-images.githubusercontent.com/83868103/182806652-f851ff54-468e-417e-85bd-ab30476df240.png)
+![image](https://user-images.githubusercontent.com/83868103/182806989-7c35c5a4-2ed3-4209-99e0-e94935f7a567.png)
+![image](https://user-images.githubusercontent.com/83868103/182807074-df41d69b-266e-4790-9242-76c37d7c744d.png)
+
+![image](https://user-images.githubusercontent.com/83868103/182807233-a44ca2c5-c9b5-4c92-932b-e5cf953d33f4.png)
+
+![image](https://user-images.githubusercontent.com/83868103/182808068-bdf5f8e5-1765-4277-9970-eb09cc131fb8.png)
+
+
+
+
 :small_orange_diamond: Crowd-control - https://explorer.theamsolutions.info/Cardchain/staking/ccvaloper1pjpaf9af7kh83kk7z4wgxyaw6772qggau53fyc
 :small_orange_diamond: Kyve - https://explorer.kyve.network/korellia/staking/kyvevaloper15r6jsgyd7e0eq5fmvu80vyu8m73vryq8d6dydz
 :small_orange_diamond: StaFi - https://testnet-explorer.stafihub.io/stafi-hub-testnet/staking/stafivaloper1wdalazrjmjscg2nqrr84nydvh2j39xztaeewgd
