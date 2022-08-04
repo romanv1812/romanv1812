@@ -15,7 +15,7 @@
 > :black_small_square: Bandwidth - 1 Gbit/s-Port**
 #
 > ### Mainnets:
-> [<img src='https://user-images.githubusercontent.com/83868103/182724431-f0ef8d7d-ad52-4bad-a45c-f39efb019eca.svg' alt='umee' width='20%' height='43'>](https://umee.explorers.guru/validator/umeevaloper1wj6p0rgdpy8kkj3xa7e8t0g9tn9nyw4hltw2z2)
+> [<img src='https://user-images.githubusercontent.com/83868103/182724431-f0ef8d7d-ad52-4bad-a45c-f39efb019eca.svg' alt='umee'  height='43'>](https://umee.explorers.guru/validator/umeevaloper1wj6p0rgdpy8kkj3xa7e8t0g9tn9nyw4hltw2z2)
 > [<img src='https://user-images.githubusercontent.com/83868103/182839840-6c58830a-3862-457e-9d4e-e4c5703fde4f.svg' alt='umee'  height='43'>](https://umee.explorers.guru/validator/umeevaloper1wj6p0rgdpy8kkj3xa7e8t0g9tn9nyw4hltw2z2)
 > [<img src='https://user-images.githubusercontent.com/83868103/182726861-7fa25636-c7e5-483f-b7ee-e47f2c326ff2.png' alt='umee'  height='50'>](https://umee.explorers.guru/validator/umeevaloper1wj6p0rgdpy8kkj3xa7e8t0g9tn9nyw4hltw2z2)
 > [<img src='https://user-images.githubusercontent.com/83868103/182727186-0a1c6ce2-f856-4731-8636-122fd8cb6d85.png' alt='umee'  height='50'>](https://umee.explorers.guru/validator/umeevaloper1wj6p0rgdpy8kkj3xa7e8t0g9tn9nyw4hltw2z2)
