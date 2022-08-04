@@ -28,7 +28,9 @@
 
 > #
 > ### Active Testnets:
-[<img src='https://user-images.githubusercontent.com/83868103/182802747-d6722b7f-88dd-4447-be4d-5fe16c7a2f9f.png' alt='umee'  height='50'>](https://umee.explorers.guru/validator/umeevaloper1wj6p0rgdpy8kkj3xa7e8t0g9tn9nyw4hltw2z2)
+> [<img src='https://user-images.githubusercontent.com/83868103/182954059-7a1571e5-5b99-46b5-a619-d85f3ced3b31.png' alt='umee'  width='24.5%'>](https://umee.explorers.guru/validator/umeevaloper1wj6p0rgdpy8kkj3xa7e8t0g9tn9nyw4hltw2z2)
+
+
 [<img src='https://user-images.githubusercontent.com/83868103/182803753-05db6b6b-1bc9-485b-82e3-b73b73250fd7.svg' alt='umee'  height='50'>](https://umee.explorers.guru/validator/umeevaloper1wj6p0rgdpy8kkj3xa7e8t0g9tn9nyw4hltw2z2)
 [<img src='https://user-images.githubusercontent.com/83868103/182806507-b0a2718f-49c7-4777-ba81-f5178575e526.png' alt='umee' height='50'>](https://umee.explorers.guru/validator/umeevaloper1wj6p0rgdpy8kkj3xa7e8t0g9tn9nyw4hltw2z2)
 [<img src='https://user-images.githubusercontent.com/83868103/182806989-7c35c5a4-2ed3-4209-99e0-e94935f7a567.png' alt='umee'  height='50'>](https://umee.explorers.guru/validator/umeevaloper1wj6p0rgdpy8kkj3xa7e8t0g9tn9nyw4hltw2z2)
@@ -41,6 +43,10 @@
 [<img src='https://user-images.githubusercontent.com/83868103/182812204-256919f6-4e7a-4d7b-b475-5531586931f8.png' alt='umee' height='60'>](https://umee.explorers.guru/validator/umeevaloper1wj6p0rgdpy8kkj3xa7e8t0g9tn9nyw4hltw2z2)
 [<img src='https://user-images.githubusercontent.com/83868103/182813729-7e8ff5de-9ad2-4970-b1d1-ad0283682b7d.png' alt='umee' height='60'>](https://umee.explorers.guru/validator/umeevaloper1wj6p0rgdpy8kkj3xa7e8t0g9tn9nyw4hltw2z2)
 [<img src='https://user-images.githubusercontent.com/83868103/182816509-f132ff19-7d76-4e5d-b1ea-848a931ba6ed.jpg' alt='umee' height='40'>](https://umee.explorers.guru/validator/umeevaloper1wj6p0rgdpy8kkj3xa7e8t0g9tn9nyw4hltw2z2)
+
+
+
+
 > #
 > ### Completed or pending update projects:
 > [<img src='https://user-images.githubusercontent.com/83868103/182817497-da9ce74a-1d6a-435b-a6b8-9d2c6cf9fb9b.svg' alt='umee' height='60'>](https://umee.explorers.guru/validator/umeevaloper1wj6p0rgdpy8kkj3xa7e8t0g9tn9nyw4hltw2z2)
