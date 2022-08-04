@@ -65,10 +65,6 @@
 > #
 > ### Completed or pending update projects:
 
-[<img src='https://user-images.githubusercontent.com/83868103/182821474-3abfbf00-fc4e-46ab-9242-00b609a28a18.png' alt='umee' height='60'>](https://umee.explorers.guru/validator/umeevaloper1wj6p0rgdpy8kkj3xa7e8t0g9tn9nyw4hltw2z2)
-[<img src='https://user-images.githubusercontent.com/83868103/182822030-02b99dc9-34bd-4b08-bb75-9418394a8bde.svg' alt='umee' height='60'>](https://umee.explorers.guru/validator/umeevaloper1wj6p0rgdpy8kkj3xa7e8t0g9tn9nyw4hltw2z2)
-[<img src='https://user-images.githubusercontent.com/83868103/182823280-76e7b4b1-310f-45fd-b68b-a4997941c298.png' alt='umee' height='60'>](https://umee.explorers.guru/validator/umeevaloper1wj6p0rgdpy8kkj3xa7e8t0g9tn9nyw4hltw2z2)
-[<img src='https://user-images.githubusercontent.com/83868103/182823800-dd62ff4b-439b-4146-81a5-2ca34e11f38e.png' alt='umee' height='60'>](https://umee.explorers.guru/validator/umeevaloper1wj6p0rgdpy8kkj3xa7e8t0g9tn9nyw4hltw2z2)
 [<img src='https://user-images.githubusercontent.com/83868103/182824400-c3211c50-f80b-477b-8816-05cdc9439406.png' alt='umee' height='60'>](https://umee.explorers.guru/validator/umeevaloper1wj6p0rgdpy8kkj3xa7e8t0g9tn9nyw4hltw2z2)
 [<img src='https://user-images.githubusercontent.com/83868103/182824859-afa9300f-ccf7-497b-bd4a-43569fccd9df.png' alt='umee' height='60'>](https://umee.explorers.guru/validator/umeevaloper1wj6p0rgdpy8kkj3xa7e8t0g9tn9nyw4hltw2z2)
 [<img src='https://user-images.githubusercontent.com/83868103/182825606-1c9d6002-14d9-4805-a7a8-bba0d78ab12a.png' alt='umee' height='30'>](https://umee.explorers.guru/validator/umeevaloper1wj6p0rgdpy8kkj3xa7e8t0g9tn9nyw4hltw2z2)
