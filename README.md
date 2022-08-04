@@ -22,6 +22,7 @@
 > 
 > [<img src='https://user-images.githubusercontent.com/83868103/182938623-6e31c2ff-a258-4bf4-9f9f-1e2b9e6e0eb8.png' alt='umee'  width='24.5%'>](https://umee.explorers.guru/validator/umeevaloper1wj6p0rgdpy8kkj3xa7e8t0g9tn9nyw4hltw2z2)
 > [<img src='https://user-images.githubusercontent.com/83868103/182946009-439e0aa3-b401-457a-b2ed-355f9f5ccb3a.png' alt='umee'  width='24.5%'>](https://umee.explorers.guru/validator/umeevaloper1wj6p0rgdpy8kkj3xa7e8t0g9tn9nyw4hltw2z2)
+> [<img src='https://user-images.githubusercontent.com/83868103/182948413-cc5f023a-075b-4e0e-a0b7-6844531de93d.png' alt='umee'  width='24.5%'>](https://umee.explorers.guru/validator/umeevaloper1wj6p0rgdpy8kkj3xa7e8t0g9tn9nyw4hltw2z2)
 
 
 
@@ -32,7 +33,6 @@
 > [<img src='https://user-images.githubusercontent.com/83868103/182727415-68bf2146-dd6e-44ef-8e4b-fdb88eaee47b.png' alt='umee'  height='50'>](https://umee.explorers.guru/validator/umeevaloper1wj6p0rgdpy8kkj3xa7e8t0g9tn9nyw4hltw2z2)
 > #
 > ### Active Testnets:
->[<img src='https://raw.githubusercontent.com/near/nearcore/8ede15f1c310200adb7c27da4e78d76cc086a42c/docs/logo.svg' alt='umee' height='50'>](https://umee.explorers.guru/validator/umeevaloper1wj6p0rgdpy8kkj3xa7e8t0g9tn9nyw4hltw2z2)
 [<img src='https://user-images.githubusercontent.com/83868103/182802747-d6722b7f-88dd-4447-be4d-5fe16c7a2f9f.png' alt='umee'  height='50'>](https://umee.explorers.guru/validator/umeevaloper1wj6p0rgdpy8kkj3xa7e8t0g9tn9nyw4hltw2z2)
 [<img src='https://user-images.githubusercontent.com/83868103/182803753-05db6b6b-1bc9-485b-82e3-b73b73250fd7.svg' alt='umee'  height='50'>](https://umee.explorers.guru/validator/umeevaloper1wj6p0rgdpy8kkj3xa7e8t0g9tn9nyw4hltw2z2)
 [<img src='https://user-images.githubusercontent.com/83868103/182806507-b0a2718f-49c7-4777-ba81-f5178575e526.png' alt='umee' height='50'>](https://umee.explorers.guru/validator/umeevaloper1wj6p0rgdpy8kkj3xa7e8t0g9tn9nyw4hltw2z2)
