@@ -54,6 +54,7 @@
 > [<img src='https://user-images.githubusercontent.com/83868103/182969284-3144ce81-e6e2-437f-a746-7caf1eeb11ce.png' alt='umee'  width='24.5%'>](https://umee.explorers.guru/validator/umeevaloper1wj6p0rgdpy8kkj3xa7e8t0g9tn9nyw4hltw2z2)
 > [<img src='https://user-images.githubusercontent.com/83868103/182969870-b976ab88-0d1f-40f4-9898-f2a555897f0c.png' alt='umee'  width='24.5%'>](https://umee.explorers.guru/validator/umeevaloper1wj6p0rgdpy8kkj3xa7e8t0g9tn9nyw4hltw2z2)
 > [<img src='https://user-images.githubusercontent.com/83868103/182970573-66cb3f4f-d547-44c3-bac7-c05b47405761.png' alt='umee'  width='24.5%'>](https://umee.explorers.guru/validator/umeevaloper1wj6p0rgdpy8kkj3xa7e8t0g9tn9nyw4hltw2z2)
+> [<img src='https://user-images.githubusercontent.com/83868103/182970949-67e8f9e9-d597-4476-9b76-2add2f7bde86.png' alt='umee'  width='24.5%'>](https://umee.explorers.guru/validator/umeevaloper1wj6p0rgdpy8kkj3xa7e8t0g9tn9nyw4hltw2z2)
 
 
 
