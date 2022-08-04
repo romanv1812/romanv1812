@@ -25,18 +25,8 @@
 > [<img src='https://user-images.githubusercontent.com/83868103/182900411-3115a005-32d9-42cb-82cc-47923fb64438.png' alt='umee'  height='200'>](https://umee.explorers.guru/validator/umeevaloper1wj6p0rgdpy8kkj3xa7e8t0g9tn9nyw4hltw2z2)
 > [<img src='https://user-images.githubusercontent.com/83868103/182900411-3115a005-32d9-42cb-82cc-47923fb64438.png' alt='umee'  height='200'>](https://umee.explorers.guru/validator/umeevaloper1wj6p0rgdpy8kkj3xa7e8t0g9tn9nyw4hltw2z2)
 > [<img src='https://user-images.githubusercontent.com/83868103/182900411-3115a005-32d9-42cb-82cc-47923fb64438.png' alt='umee'  height='200'>](https://umee.explorers.guru/validator/umeevaloper1wj6p0rgdpy8kkj3xa7e8t0g9tn9nyw4hltw2z2)
-
-![Слой 2](https://user-images.githubusercontent.com/83868103/182900411-3115a005-32d9-42cb-82cc-47923fb64438.png)
-
-
-![Слой 3](https://user-images.githubusercontent.com/83868103/182895928-e849a297-6c59-4e98-9077-089704768af0.png)
-
-
-
- [<img src='https://user-images.githubusercontent.com/83868103/182884022-8b3f52bd-87fe-4282-9589-be0c00d977f7.png' alt='umee'  height='45'>](https://umee.explorers.guru/validator/umeevaloper1wj6p0rgdpy8kkj3xa7e8t0g9tn9nyw4hltw2z2)
-  [<img src='https://user-images.githubusercontent.com/83868103/182884022-8b3f52bd-87fe-4282-9589-be0c00d977f7.png' alt='umee'  height='45'>](https://umee.explorers.guru/validator/umeevaloper1wj6p0rgdpy8kkj3xa7e8t0g9tn9nyw4hltw2z2)
-   [<img src='https://user-images.githubusercontent.com/83868103/182884022-8b3f52bd-87fe-4282-9589-be0c00d977f7.png' alt='umee'  height='45'>](https://umee.explorers.guru/validator/umeevaloper1wj6p0rgdpy8kkj3xa7e8t0g9tn9nyw4hltw2z2)
-    [<img src='https://user-images.githubusercontent.com/83868103/182884022-8b3f52bd-87fe-4282-9589-be0c00d977f7.png' alt='umee'  height='45'>](https://umee.explorers.guru/validator/umeevaloper1wj6p0rgdpy8kkj3xa7e8t0g9tn9nyw4hltw2z2)
+> #
+> ### Mainnets:
 > [<img src='https://user-images.githubusercontent.com/83868103/182839840-6c58830a-3862-457e-9d4e-e4c5703fde4f.svg' alt='umee'  height='43'>](https://umee.explorers.guru/validator/umeevaloper1wj6p0rgdpy8kkj3xa7e8t0g9tn9nyw4hltw2z2)
 > [<img src='https://user-images.githubusercontent.com/83868103/182726861-7fa25636-c7e5-483f-b7ee-e47f2c326ff2.png' alt='umee'  height='50'>](https://umee.explorers.guru/validator/umeevaloper1wj6p0rgdpy8kkj3xa7e8t0g9tn9nyw4hltw2z2)
 > [<img src='https://user-images.githubusercontent.com/83868103/182727186-0a1c6ce2-f856-4731-8636-122fd8cb6d85.png' alt='umee'  height='50'>](https://umee.explorers.guru/validator/umeevaloper1wj6p0rgdpy8kkj3xa7e8t0g9tn9nyw4hltw2z2)
@@ -80,6 +70,4 @@
 [<img src='https://user-images.githubusercontent.com/83868103/182836978-aed11fb5-f9c9-48a9-8ea0-ed9df0817c48.svg' alt='umee' height='30'>](https://umee.explorers.guru/validator/umeevaloper1wj6p0rgdpy8kkj3xa7e8t0g9tn9nyw4hltw2z2)
 [<img src='https://user-images.githubusercontent.com/83868103/182837391-846e09ed-8593-4c38-a747-eb668ce68c43.svg' alt='umee' height='30'>](https://umee.explorers.guru/validator/umeevaloper1wj6p0rgdpy8kkj3xa7e8t0g9tn9nyw4hltw2z2)
 [<img src='https://user-images.githubusercontent.com/83868103/182837492-bda95c2b-75cb-4e1c-93cf-d70b901ae800.png' alt='umee' height='30'>](https://umee.explorers.guru/validator/umeevaloper1wj6p0rgdpy8kkj3xa7e8t0g9tn9nyw4hltw2z2)
-![Umee-logo](https://user-images.githubusercontent.com/83868103/182884022-8b3f52bd-87fe-4282-9589-be0c00d977f7.png)
-![Блок](https://user-images.githubusercontent.com/83868103/182887398-fb681d67-86c7-420d-9654-8788e35dd1aa.png)
 
