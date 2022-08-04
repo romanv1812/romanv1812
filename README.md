@@ -9,7 +9,7 @@
 > I have extensive experience as a Linux administrator and over 2 years of working with nodes on Cosmos and Polkadot networks. Secure and reliable individual PoS/PoW validator, crypto enthusiast. 24hr management & monitoring! (Grafana & Prometeus & Telegram alerts)**
 > #
 > ### :computer: Hardware:
-> :earth_africa: **Location - [Hetzner DS](https://www.hetzner.com/dedicated-rootserver/ax101), [Ovhcloud](https://www.ovhcloud.com/de/bare-metal/), Digitalocean   
+> :earth_africa: **Location - [Hetzner DS](https://www.hetzner.com/dedicated-rootserver/ax101), [Ovhcloud](https://www.ovhcloud.com/de/bare-metal/), [Digitalocean](https://www.digitalocean.com/)  
 > :black_small_square: Processor - AMD Ryzen 5950X (32 CPU, 128 RAM)  
 > :black_small_square: Memory - 6.8 TB NVMe  
 > :black_small_square: Bandwidth - 1 Gbit/s-Port**
