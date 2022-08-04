@@ -27,7 +27,10 @@
 > [<img src='https://user-images.githubusercontent.com/83868103/182952438-107df8a3-0ba5-43a2-af51-2090bd4647b2.png' alt='umee'  width='24.5%'>](https://umee.explorers.guru/validator/umeevaloper1wj6p0rgdpy8kkj3xa7e8t0g9tn9nyw4hltw2z2)
 
 > #
-> ### Active Testnets:
+> <p align="center">
+> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=25&color=7C56F7&center=true&vCenter=true&height=30&lines=Active+Testnets!" alt="Typing SVG" /></a>
+> </p>
+>
 > [<img src='https://user-images.githubusercontent.com/83868103/182954059-7a1571e5-5b99-46b5-a619-d85f3ced3b31.png' alt='umee'  width='24.5%'>](https://umee.explorers.guru/validator/umeevaloper1wj6p0rgdpy8kkj3xa7e8t0g9tn9nyw4hltw2z2)
 > [<img src='https://user-images.githubusercontent.com/83868103/182955775-28ebf7e3-9643-4a2c-b994-a6ba4ed5941b.png' alt='umee'  width='24.5%'>](https://umee.explorers.guru/validator/umeevaloper1wj6p0rgdpy8kkj3xa7e8t0g9tn9nyw4hltw2z2)
 > [<img src='https://user-images.githubusercontent.com/83868103/182956478-4d1a13c1-236f-4599-b9a4-f329fb5f150f.png' alt='umee'  width='24.5%'>](https://umee.explorers.guru/validator/umeevaloper1wj6p0rgdpy8kkj3xa7e8t0g9tn9nyw4hltw2z2)
