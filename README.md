@@ -26,10 +26,6 @@
 > [<img src='https://user-images.githubusercontent.com/83868103/182949475-91dbd97b-d123-461b-8385-37b0b58146a7.png' alt='umee'  width='24.5%'>](https://umee.explorers.guru/validator/umeevaloper1wj6p0rgdpy8kkj3xa7e8t0g9tn9nyw4hltw2z2)
 > [<img src='https://user-images.githubusercontent.com/83868103/182952438-107df8a3-0ba5-43a2-af51-2090bd4647b2.png' alt='umee'  width='24.5%'>](https://umee.explorers.guru/validator/umeevaloper1wj6p0rgdpy8kkj3xa7e8t0g9tn9nyw4hltw2z2)
 
-
-
-
-
 > #
 > ### Active Testnets:
 [<img src='https://user-images.githubusercontent.com/83868103/182802747-d6722b7f-88dd-4447-be4d-5fe16c7a2f9f.png' alt='umee'  height='50'>](https://umee.explorers.guru/validator/umeevaloper1wj6p0rgdpy8kkj3xa7e8t0g9tn9nyw4hltw2z2)
