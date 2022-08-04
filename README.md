@@ -26,15 +26,6 @@
 > [<img src='https://user-images.githubusercontent.com/83868103/182938623-6e31c2ff-a258-4bf4-9f9f-1e2b9e6e0eb8.png' alt='umee'  width='24.5%'>](https://umee.explorers.guru/validator/umeevaloper1wj6p0rgdpy8kkj3xa7e8t0g9tn9nyw4hltw2z2)
 > [<img src='https://user-images.githubusercontent.com/83868103/182938623-6e31c2ff-a258-4bf4-9f9f-1e2b9e6e0eb8.png' alt='umee'  width='24.5%'>](https://umee.explorers.guru/validator/umeevaloper1wj6p0rgdpy8kkj3xa7e8t0g9tn9nyw4hltw2z2)
 > [<img src='https://user-images.githubusercontent.com/83868103/182938623-6e31c2ff-a258-4bf4-9f9f-1e2b9e6e0eb8.png' alt='umee'  width='24.5%'>](https://umee.explorers.guru/validator/umeevaloper1wj6p0rgdpy8kkj3xa7e8t0g9tn9nyw4hltw2z2)
-
-
-
-
-> #
-> ### Mainnets:
-> [<img src='https://user-images.githubusercontent.com/83868103/182900411-3115a005-32d9-42cb-82cc-47923fb64438.png' alt='umee'  height='200'>](https://umee.explorers.guru/validator/umeevaloper1wj6p0rgdpy8kkj3xa7e8t0g9tn9nyw4hltw2z2)
-> [<img src='https://user-images.githubusercontent.com/83868103/182900411-3115a005-32d9-42cb-82cc-47923fb64438.png' alt='umee'  height='200'>](https://umee.explorers.guru/validator/umeevaloper1wj6p0rgdpy8kkj3xa7e8t0g9tn9nyw4hltw2z2)
-> [<img src='https://user-images.githubusercontent.com/83868103/182900411-3115a005-32d9-42cb-82cc-47923fb64438.png' alt='umee'  height='200'>](https://umee.explorers.guru/validator/umeevaloper1wj6p0rgdpy8kkj3xa7e8t0g9tn9nyw4hltw2z2)
 > #
 > ### Mainnets:
 > [<img src='https://user-images.githubusercontent.com/83868103/182839840-6c58830a-3862-457e-9d4e-e4c5703fde4f.svg' alt='umee'  height='43'>](https://umee.explorers.guru/validator/umeevaloper1wj6p0rgdpy8kkj3xa7e8t0g9tn9nyw4hltw2z2)
