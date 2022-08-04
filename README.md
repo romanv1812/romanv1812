@@ -27,7 +27,10 @@
 > ### Active Testnets:
 [<img src='https://raw.githubusercontent.com/near/nearcore/8ede15f1c310200adb7c27da4e78d76cc086a42c/docs/logo.svg' alt='umee' height='50'>](https://umee.explorers.guru/validator/umeevaloper1wj6p0rgdpy8kkj3xa7e8t0g9tn9nyw4hltw2z2)
 [<img src='https://user-images.githubusercontent.com/83868103/182802747-d6722b7f-88dd-4447-be4d-5fe16c7a2f9f.png' alt='umee' height='50'>](https://umee.explorers.guru/validator/umeevaloper1wj6p0rgdpy8kkj3xa7e8t0g9tn9nyw4hltw2z2)
+[<img src='https://user-images.githubusercontent.com/83868103/182803753-05db6b6b-1bc9-485b-82e3-b73b73250fd7.svg' alt='umee' height='50'>](https://umee.explorers.guru/validator/umeevaloper1wj6p0rgdpy8kkj3xa7e8t0g9tn9nyw4hltw2z2)
 
+![62aa83f5a22e3f5e3e0d655f_stride-logo](https://user-images.githubusercontent.com/83868103/182803574-e3e6b804-8c42-4df1-aacb-e99a7afc99f1.svg)
+![62aa8e394b6bc81514893691_stride-logo-light](https://user-images.githubusercontent.com/83868103/182803753-05db6b6b-1bc9-485b-82e3-b73b73250fd7.svg)
 
 :small_orange_diamond: Stride - https://poolparty.stride.zone/STRIDE/staking/stridevaloper1drnsf7zuqy4vxghwf5pcv48ch89zpcf0jg09ej
 :small_orange_diamond: Bundlr - https://bundlr.network/explorer/Ry2bDGfBIvYtvDPYnf0eg_ijH4A1EDKaaEEecyjbUQ4
