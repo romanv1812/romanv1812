@@ -18,6 +18,7 @@
 > #
 > ### Mainnets:
 > [<img src='https://user-images.githubusercontent.com/83868103/182887398-fb681d67-86c7-420d-9654-8788e35dd1aa.png' alt='umee'  height='90'>](https://umee.explorers.guru/validator/umeevaloper1wj6p0rgdpy8kkj3xa7e8t0g9tn9nyw4hltw2z2)
+> [<img src='https://user-images.githubusercontent.com/83868103/182888077-7d98977c-047a-49bc-96e7-838bc9dd4e70.png' alt='umee'  height='90'>](https://umee.explorers.guru/validator/umeevaloper1wj6p0rgdpy8kkj3xa7e8t0g9tn9nyw4hltw2z2)
 
 
  [<img src='https://user-images.githubusercontent.com/83868103/182884022-8b3f52bd-87fe-4282-9589-be0c00d977f7.png' alt='umee'  height='45'>](https://umee.explorers.guru/validator/umeevaloper1wj6p0rgdpy8kkj3xa7e8t0g9tn9nyw4hltw2z2)
