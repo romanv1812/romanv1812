@@ -50,7 +50,7 @@
 > [<img src='https://user-images.githubusercontent.com/83868103/182967912-c2fda4e7-3c1b-425f-a8e0-22f2dcf73329.png' alt='umee'  width='24.5%'>](https://umee.explorers.guru/validator/umeevaloper1wj6p0rgdpy8kkj3xa7e8t0g9tn9nyw4hltw2z2)
 > [<img src='https://user-images.githubusercontent.com/83868103/182968780-931166dd-c7b4-4321-a762-914de9b465a0.png' alt='umee'  width='24.5%'>](https://umee.explorers.guru/validator/umeevaloper1wj6p0rgdpy8kkj3xa7e8t0g9tn9nyw4hltw2z2)
 > [<img src='https://user-images.githubusercontent.com/83868103/182969284-3144ce81-e6e2-437f-a746-7caf1eeb11ce.png' alt='umee'  width='24.5%'>](https://umee.explorers.guru/validator/umeevaloper1wj6p0rgdpy8kkj3xa7e8t0g9tn9nyw4hltw2z2)
-
+> [<img src='https://user-images.githubusercontent.com/83868103/182969870-b976ab88-0d1f-40f4-9898-f2a555897f0c.png' alt='umee'  width='24.5%'>](https://umee.explorers.guru/validator/umeevaloper1wj6p0rgdpy8kkj3xa7e8t0g9tn9nyw4hltw2z2)
 
 
 
