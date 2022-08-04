@@ -33,34 +33,17 @@
 [<img src='https://user-images.githubusercontent.com/83868103/182807074-df41d69b-266e-4790-9242-76c37d7c744d.png' alt='umee' height='50'>](https://umee.explorers.guru/validator/umeevaloper1wj6p0rgdpy8kkj3xa7e8t0g9tn9nyw4hltw2z2)
 [<img src='https://user-images.githubusercontent.com/83868103/182807233-a44ca2c5-c9b5-4c92-932b-e5cf953d33f4.png' alt='umee' height='50'>](https://umee.explorers.guru/validator/umeevaloper1wj6p0rgdpy8kkj3xa7e8t0g9tn9nyw4hltw2z2)
 [<img src='https://user-images.githubusercontent.com/83868103/182808068-bdf5f8e5-1765-4277-9970-eb09cc131fb8.png' alt='umee' height='50'>](https://umee.explorers.guru/validator/umeevaloper1wj6p0rgdpy8kkj3xa7e8t0g9tn9nyw4hltw2z2)
-
-[<img src='https://user-images.githubusercontent.com/83868103/182809680-c4abdff6-517d-47ef-b3fa-82f0ebab0559.svg' alt='umee' height='50'>](https://umee.explorers.guru/validator/umeevaloper1wj6p0rgdpy8kkj3xa7e8t0g9tn9nyw4hltw2z2)
-
-
-![logotype](https://user-images.githubusercontent.com/83868103/182809680-c4abdff6-517d-47ef-b3fa-82f0ebab0559.svg)
-
-
-
-
-![image](https://user-images.githubusercontent.com/83868103/182806507-b0a2718f-49c7-4777-ba81-f5178575e526.png)
-![image](https://user-images.githubusercontent.com/83868103/182806652-f851ff54-468e-417e-85bd-ab30476df240.png)
-![image](https://user-images.githubusercontent.com/83868103/182806989-7c35c5a4-2ed3-4209-99e0-e94935f7a567.png)
-![image](https://user-images.githubusercontent.com/83868103/182807074-df41d69b-266e-4790-9242-76c37d7c744d.png)
-
-![image](https://user-images.githubusercontent.com/83868103/182807233-a44ca2c5-c9b5-4c92-932b-e5cf953d33f4.png)
-
-![image](https://user-images.githubusercontent.com/83868103/182808068-bdf5f8e5-1765-4277-9970-eb09cc131fb8.png)
+[<img src='https://user-images.githubusercontent.com/83868103/182809680-c4abdff6-517d-47ef-b3fa-82f0ebab0559.svg' alt='umee' height='30'>](https://umee.explorers.guru/validator/umeevaloper1wj6p0rgdpy8kkj3xa7e8t0g9tn9nyw4hltw2z2)
+[<img src='https://user-images.githubusercontent.com/83868103/182810884-c180fed5-658b-49af-8f16-32a244a19e28.png' alt='umee' height='40'>](https://umee.explorers.guru/validator/umeevaloper1wj6p0rgdpy8kkj3xa7e8t0g9tn9nyw4hltw2z2)
+[<img src='https://user-images.githubusercontent.com/83868103/182811613-8ab16b6b-d77d-4d81-ba07-b51d10d85fb5.png' alt='umee' height='40'>](https://umee.explorers.guru/validator/umeevaloper1wj6p0rgdpy8kkj3xa7e8t0g9tn9nyw4hltw2z2)
+[<img src='https://user-images.githubusercontent.com/83868103/182812204-256919f6-4e7a-4d7b-b475-5531586931f8.png' alt='umee' height='60'>](https://umee.explorers.guru/validator/umeevaloper1wj6p0rgdpy8kkj3xa7e8t0g9tn9nyw4hltw2z2)
+[<img src='https://user-images.githubusercontent.com/83868103/182813729-7e8ff5de-9ad2-4970-b1d1-ad0283682b7d.png' alt='umee' height='60'>](https://umee.explorers.guru/validator/umeevaloper1wj6p0rgdpy8kkj3xa7e8t0g9tn9nyw4hltw2z2)
+[<img src='https://user-images.githubusercontent.com/83868103/182816509-f132ff19-7d76-4e5d-b1ea-848a931ba6ed.jpg' alt='umee' height='40'>](https://umee.explorers.guru/validator/umeevaloper1wj6p0rgdpy8kkj3xa7e8t0g9tn9nyw4hltw2z2)
 
 
+![logo 583960b7](https://user-images.githubusercontent.com/83868103/182817497-da9ce74a-1d6a-435b-a6b8-9d2c6cf9fb9b.svg)
 
 
-:small_orange_diamond: Crowd-control - https://explorer.theamsolutions.info/Cardchain/staking/ccvaloper1pjpaf9af7kh83kk7z4wgxyaw6772qggau53fyc
-:small_orange_diamond: Kyve - https://explorer.kyve.network/korellia/staking/kyvevaloper15r6jsgyd7e0eq5fmvu80vyu8m73vryq8d6dydz
-:small_orange_diamond: StaFi - https://testnet-explorer.stafihub.io/stafi-hub-testnet/staking/stafivaloper1wdalazrjmjscg2nqrr84nydvh2j39xztaeewgd
-:small_orange_diamond: StarkNet - https://dashboard.alchemyapi.io/apps/ycgu10wyfcq8qjbs
-:small_orange_diamond: Teritori - https://explorer.ericet.xyz/teritori/staking/torivaloper1qy38xmcrnht0kt5c5fryvl8llrpdwer6atxj5u
-:small_orange_diamond: Celestia - https://celestia.explorers.guru/validator/celestiavaloper1r4g3aey38d2a5hnc2a9j2hlnju6nyuprxerm59
-:small_orange_diamond: IronFish - https://testnet.ironfish.network/users/1385
 
 > ### Completed or pending update projects:
 > Humanode, Kujira, Masa, Massa, Minima, Oasys, SubSpace, Kira, Celestia, Defund, Gnoland, Idep, Pylons, Quai, Aleo, BitCountry, Chainflip, Evmos, Pontem, Porta, Rizon, Umee, Zeitgeist
