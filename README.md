@@ -23,13 +23,12 @@
 > [<img src='https://user-images.githubusercontent.com/83868103/182938623-6e31c2ff-a258-4bf4-9f9f-1e2b9e6e0eb8.png' alt='umee'  width='24.5%'>](https://umee.explorers.guru/validator/umeevaloper1wj6p0rgdpy8kkj3xa7e8t0g9tn9nyw4hltw2z2)
 > [<img src='https://user-images.githubusercontent.com/83868103/182946009-439e0aa3-b401-457a-b2ed-355f9f5ccb3a.png' alt='umee'  width='24.5%'>](https://umee.explorers.guru/validator/umeevaloper1wj6p0rgdpy8kkj3xa7e8t0g9tn9nyw4hltw2z2)
 > [<img src='https://user-images.githubusercontent.com/83868103/182948413-cc5f023a-075b-4e0e-a0b7-6844531de93d.png' alt='umee'  width='24.5%'>](https://umee.explorers.guru/validator/umeevaloper1wj6p0rgdpy8kkj3xa7e8t0g9tn9nyw4hltw2z2)
+> [<img src='https://user-images.githubusercontent.com/83868103/182949475-91dbd97b-d123-461b-8385-37b0b58146a7.png' alt='umee'  width='24.5%'>](https://umee.explorers.guru/validator/umeevaloper1wj6p0rgdpy8kkj3xa7e8t0g9tn9nyw4hltw2z2)
 
 
 
 > #
 > ### Mainnets:
-> [<img src='https://user-images.githubusercontent.com/83868103/182726861-7fa25636-c7e5-483f-b7ee-e47f2c326ff2.png' alt='umee'  height='50'>](https://umee.explorers.guru/validator/umeevaloper1wj6p0rgdpy8kkj3xa7e8t0g9tn9nyw4hltw2z2)
-> [<img src='https://user-images.githubusercontent.com/83868103/182727186-0a1c6ce2-f856-4731-8636-122fd8cb6d85.png' alt='umee'  height='50'>](https://umee.explorers.guru/validator/umeevaloper1wj6p0rgdpy8kkj3xa7e8t0g9tn9nyw4hltw2z2)
 > [<img src='https://user-images.githubusercontent.com/83868103/182727415-68bf2146-dd6e-44ef-8e4b-fdb88eaee47b.png' alt='umee'  height='50'>](https://umee.explorers.guru/validator/umeevaloper1wj6p0rgdpy8kkj3xa7e8t0g9tn9nyw4hltw2z2)
 > #
 > ### Active Testnets:
