@@ -1,9 +1,4 @@
-<p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=25&color=7C56F7&center=true&vCenter=true&height=30&lines=Hello+there!;Wellcome+to+my+profile!" alt="Typing SVG" /></a>
-</p>
-
-
-> ### :bust_in_silhouette: Bio:
+> ### :bust_in_silhouette: Bio: 
 > **My name is Roman, I am an individual validator from Ukraine. 
 > I have extensive experience as a Linux administrator and over 2 years of working with nodes on Cosmos and Polkadot networks. Secure and reliable individual PoS/PoW validator, crypto enthusiast. 24hr management & monitoring! (Grafana & Prometeus & Telegram alerts)**
 > #
