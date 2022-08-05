@@ -16,21 +16,13 @@
 > ### Social:
 > [<img src='https://user-images.githubusercontent.com/83868103/182711859-e4aedb98-61e5-4ee6-b305-d84bb901d622.svg' alt='discord' height='50'>](https://discordapp.com/users/303453296755212288) [<img src='https://user-images.githubusercontent.com/83868103/182714295-ba5b1ae4-aa6f-4705-babf-d1e6e7286242.svg' alt='twitter' height='50'>](https://twitter.com/romanv1812) [<img src='https://user-images.githubusercontent.com/83868103/182712804-54fdc9c9-ae3f-449e-af38-26e5fb9f88b2.svg' alt='telegram' height='50'>](https://t.me/romanv1812) [<img src='https://user-images.githubusercontent.com/83868103/182713364-07dc932a-fbc9-45d5-8db7-74fe84ee302c.svg' alt='gmail' height='50'>](romanv1812@gmail.com) [<img src='https://user-images.githubusercontent.com/83868103/182713942-afbee5f7-cb22-4221-a755-e2d9914ea107.svg' alt='medium' height='50'>](https://medium.com/@romanv1812)
 > #
-> <p align="center">
-> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=25&color=7C56F7&center=true&vCenter=true&height=30&lines=Mainnets!" alt="Typing SVG" /></a>
-> </p>
-> 
 > [<img src='https://user-images.githubusercontent.com/83868103/183111052-2bc3a8cf-f5b7-4915-8a09-212f09859e34.gif' alt='umee'  width='99.5%'>](https://umee.explorers.guru/validator/umeevaloper1wj6p0rgdpy8kkj3xa7e8t0g9tn9nyw4hltw2z2)
 > [<img src='https://user-images.githubusercontent.com/83868103/182951895-1f093735-ce28-4ae6-9aba-cec3de667843.png' alt='umee'  width='24.5%'>](https://umee.explorers.guru/validator/umeevaloper1wj6p0rgdpy8kkj3xa7e8t0g9tn9nyw4hltw2z2)
 > [<img src='https://user-images.githubusercontent.com/83868103/182946009-439e0aa3-b401-457a-b2ed-355f9f5ccb3a.png' alt='umee'  width='24.5%'>](https://umee.explorers.guru/validator/umeevaloper1wj6p0rgdpy8kkj3xa7e8t0g9tn9nyw4hltw2z2)
 > [<img src='https://user-images.githubusercontent.com/83868103/182948413-cc5f023a-075b-4e0e-a0b7-6844531de93d.png' alt='umee'  width='24.5%'>](https://umee.explorers.guru/validator/umeevaloper1wj6p0rgdpy8kkj3xa7e8t0g9tn9nyw4hltw2z2)
 > [<img src='https://user-images.githubusercontent.com/83868103/182949475-91dbd97b-d123-461b-8385-37b0b58146a7.png' alt='umee'  width='24.5%'>](https://umee.explorers.guru/validator/umeevaloper1wj6p0rgdpy8kkj3xa7e8t0g9tn9nyw4hltw2z2)
 > [<img src='https://user-images.githubusercontent.com/83868103/182952438-107df8a3-0ba5-43a2-af51-2090bd4647b2.png' alt='umee'  width='24.5%'>](https://umee.explorers.guru/validator/umeevaloper1wj6p0rgdpy8kkj3xa7e8t0g9tn9nyw4hltw2z2)
-> #
-> <p align="center">
-> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=25&color=7C56F7&center=true&vCenter=true&height=30&lines=Active+Testnets!" alt="Typing SVG" /></a>
-> </p>
-> 
+> # 
 > [<img src='https://user-images.githubusercontent.com/83868103/183112064-24d8012d-8808-49dd-add7-d1a631e18170.gif' alt='umee'  width='99.5%'>](https://umee.explorers.guru/validator/umeevaloper1wj6p0rgdpy8kkj3xa7e8t0g9tn9nyw4hltw2z2)
 > [<img src='https://user-images.githubusercontent.com/83868103/182954059-7a1571e5-5b99-46b5-a619-d85f3ced3b31.png' alt='umee'  width='24.5%'>](https://umee.explorers.guru/validator/umeevaloper1wj6p0rgdpy8kkj3xa7e8t0g9tn9nyw4hltw2z2)
 > [<img src='https://user-images.githubusercontent.com/83868103/182955775-28ebf7e3-9643-4a2c-b994-a6ba4ed5941b.png' alt='umee'  width='24.5%'>](https://umee.explorers.guru/validator/umeevaloper1wj6p0rgdpy8kkj3xa7e8t0g9tn9nyw4hltw2z2)
@@ -45,10 +37,7 @@
 > [<img src='https://user-images.githubusercontent.com/83868103/182961778-f5f584df-41e8-4446-9b1e-fc492df3de77.png' alt='umee'  width='24.5%'>](https://umee.explorers.guru/validator/umeevaloper1wj6p0rgdpy8kkj3xa7e8t0g9tn9nyw4hltw2z2)
 > [<img src='https://user-images.githubusercontent.com/83868103/182962330-460c7605-da76-4be1-ad66-1d57dc2b7124.png' alt='umee'  width='24.5%'>](https://umee.explorers.guru/validator/umeevaloper1wj6p0rgdpy8kkj3xa7e8t0g9tn9nyw4hltw2z2)
 > [<img src='https://user-images.githubusercontent.com/83868103/182963284-503ae018-878b-43ea-adfb-e1a1c206a748.png' alt='umee'  width='24.5%'>](https://umee.explorers.guru/validator/umeevaloper1wj6p0rgdpy8kkj3xa7e8t0g9tn9nyw4hltw2z2)
-> <p align="center">
-> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=25&color=7C56F7&center=true&vCenter=true&height=30&lines=Completed+or+pending+update+projects!" alt="Typing SVG" /></a>
-> </p>
-> 
+> #
 > [<img src='https://user-images.githubusercontent.com/83868103/183114196-d7138b90-0962-42db-8abf-5e0e73c120fc.gif' alt='umee'  width='99.5%'>](https://umee.explorers.guru/validator/umeevaloper1wj6p0rgdpy8kkj3xa7e8t0g9tn9nyw4hltw2z2)
 > [<img src='https://user-images.githubusercontent.com/83868103/182965320-2cb55024-d956-46d7-8e20-d8de43d169ed.png' alt='umee'  width='24.5%'>](https://umee.explorers.guru/validator/umeevaloper1wj6p0rgdpy8kkj3xa7e8t0g9tn9nyw4hltw2z2)
 > [<img src='https://user-images.githubusercontent.com/83868103/182966198-2f8111a8-2ef3-4635-9ba3-52525d224999.png' alt='umee'  width='24.5%'>](https://umee.explorers.guru/validator/umeevaloper1wj6p0rgdpy8kkj3xa7e8t0g9tn9nyw4hltw2z2)
