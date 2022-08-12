@@ -17,6 +17,7 @@
 > [<img src='https://user-images.githubusercontent.com/83868103/182948413-cc5f023a-075b-4e0e-a0b7-6844531de93d.png' alt='mises'  width='24.5%'>](https://gw.mises.site/validators/misesvaloper1js09j57nge6yqphe9wvr8kp70le3wqg28qu0ga)
 > [<img src='https://user-images.githubusercontent.com/83868103/182949475-91dbd97b-d123-461b-8385-37b0b58146a7.png' alt='chronic'  width='24.5%'>](https://www.skynetexplorers.com/chronic-token/staking/chronicvaloper137hvjj8njj8pp6grtmd980am4fa9apywn5wrvq)
 > [<img src='https://user-images.githubusercontent.com/83868103/182952438-107df8a3-0ba5-43a2-af51-2090bd4647b2.png' alt='dig'  width='24.5%'>](https://look.chillvalidation.com/dig/staking/digvaloper17uf22fvmsg4r54hyxk7j9mxeq0y97fd86507z6)
+> [<img src='https://user-images.githubusercontent.com/83868103/184349404-6fac342d-62bb-4c40-be18-d680b2eae788.png' alt='genesisl1'  width='24.5%'>](https://ping.pub/genesisl1/staking)
 > # 
 > [<img src='https://user-images.githubusercontent.com/83868103/183112064-24d8012d-8808-49dd-add7-d1a631e18170.gif' alt='header'  width='99.5%'>]()
 > [<img src='https://user-images.githubusercontent.com/83868103/183091235-8ae38996-fc0b-47a7-bf8c-41d90f844fa9.png' alt='aleo'  width='24.5%'>](https://twitter.com/romanv1812/status/1555668416035491846)
