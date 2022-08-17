@@ -20,7 +20,7 @@
 > [<img src='https://user-images.githubusercontent.com/83868103/184349404-6fac342d-62bb-4c40-be18-d680b2eae788.png' alt='genesisl1'  width='24.5%'>](https://ping.pub/genesisl1/staking)
 > # 
 > [<img src='https://user-images.githubusercontent.com/83868103/183112064-24d8012d-8808-49dd-add7-d1a631e18170.gif' alt='activetestnet'  width='99.5%'>]()
-> [<img src='https://user-images.githubusercontent.com/83868103/185071413-bc3e0d6b-3b83-4363-8386-871d239eea2e.png' alt='near'  width='24.5%'>](https://twitter.com/romanv1812/status/1555668416035491846)
+> [<img src='https://user-images.githubusercontent.com/83868103/185071413-bc3e0d6b-3b83-4363-8386-871d239eea2e.png' alt='near'  width='24.5%'>](https://explorer.shardnet.near.org/accounts/romanv1812.factory.shardnet.near)
 > [<img src='https://user-images.githubusercontent.com/83868103/183091235-8ae38996-fc0b-47a7-bf8c-41d90f844fa9.png' alt='aleo'  width='24.5%'>](https://twitter.com/romanv1812/status/1555668416035491846)
 > [<img src='https://user-images.githubusercontent.com/83868103/183156245-a71b7737-55c3-4bc5-900d-a9ee9d7f270b.png' alt='sui'  width='24.5%'>](https://node.sui.zvalid.com)
 > [<img src='https://user-images.githubusercontent.com/83868103/183155515-8630d69b-83b6-4654-a3d9-bd2edfd444c0.png' alt='obol'  width='24.5%'>](http://45.67.221.165:3000/d/singlenode/single-charon-node-dashboard?orgId=1&refresh=10s&from=now-1h&to=now)
