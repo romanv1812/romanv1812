@@ -18,7 +18,7 @@
 > [<img src='https://user-images.githubusercontent.com/83868103/182949475-91dbd97b-d123-461b-8385-37b0b58146a7.png' alt='chronic'  width='24.5%'>](https://www.skynetexplorers.com/chronic-token/staking/chronicvaloper137hvjj8njj8pp6grtmd980am4fa9apywn5wrvq)
 > [<img src='https://user-images.githubusercontent.com/83868103/182952438-107df8a3-0ba5-43a2-af51-2090bd4647b2.png' alt='dig'  width='24.5%'>](https://look.chillvalidation.com/dig/staking/digvaloper17uf22fvmsg4r54hyxk7j9mxeq0y97fd86507z6)
 > [<img src='https://user-images.githubusercontent.com/83868103/184349404-6fac342d-62bb-4c40-be18-d680b2eae788.png' alt='genesisl1'  width='24.5%'>](https://ping.pub/genesisl1/staking)
-> [<img src='https://user-images.githubusercontent.com/83868103/185073476-0285be4d-4c0f-45e8-ad9b-b17b11bdf67c.png' alt='canto'  width='24.5%'>](https://explorer.nodestake.top/canto/staking/cantovaloper13n6p2v6uzva8hqu7srsd6wxnpcjzrxcx3t4jqy)
+> [<img src='https://user-images.githubusercontent.com/83868103/185081333-a77c3b97-e60e-4644-b07a-d78b6e1d8e3c.png' alt='canto'  width='24.5%'>](https://explorer.nodestake.top/canto/staking/cantovaloper13n6p2v6uzva8hqu7srsd6wxnpcjzrxcx3t4jqy)
 > # 
 > [<img src='https://user-images.githubusercontent.com/83868103/183112064-24d8012d-8808-49dd-add7-d1a631e18170.gif' alt='activetestnet'  width='99.5%'>]()
 > [<img src='https://user-images.githubusercontent.com/83868103/185071413-bc3e0d6b-3b83-4363-8386-871d239eea2e.png' alt='near'  width='24.5%'>](https://explorer.shardnet.near.org/accounts/romanv1812.factory.shardnet.near)
