@@ -11,7 +11,7 @@
 > ### Social:
 > [<img src='https://user-images.githubusercontent.com/83868103/182711859-e4aedb98-61e5-4ee6-b305-d84bb901d622.svg' alt='discord' height='50'>](https://discordapp.com/users/303453296755212288) [<img src='https://user-images.githubusercontent.com/83868103/182714295-ba5b1ae4-aa6f-4705-babf-d1e6e7286242.svg' alt='twitter' height='50'>](https://twitter.com/romanv1812) [<img src='https://user-images.githubusercontent.com/83868103/182712804-54fdc9c9-ae3f-449e-af38-26e5fb9f88b2.svg' alt='telegram' height='50'>](https://t.me/romanv1812) [<img src='https://user-images.githubusercontent.com/83868103/182713364-07dc932a-fbc9-45d5-8db7-74fe84ee302c.svg' alt='gmail' height='50'>](romanv1812@gmail.com) [<img src='https://user-images.githubusercontent.com/83868103/182713942-afbee5f7-cb22-4221-a755-e2d9914ea107.svg' alt='medium' height='50'>](https://medium.com/@romanv1812)
 > #
-> [<img src='https://user-images.githubusercontent.com/83868103/183111052-2bc3a8cf-f5b7-4915-8a09-212f09859e34.gif' alt='header'  width='99.5%'>](https://umee.explorers.guru/validator/umeevaloper1wj6p0rgdpy8kkj3xa7e8t0g9tn9nyw4hltw2z2)
+> [<img src='https://user-images.githubusercontent.com/83868103/183111052-2bc3a8cf-f5b7-4915-8a09-212f09859e34.gif' alt='mainnets'  width='99.5%'>](https://umee.explorers.guru/validator/umeevaloper1wj6p0rgdpy8kkj3xa7e8t0g9tn9nyw4hltw2z2)
 > [<img src='https://user-images.githubusercontent.com/83868103/182951895-1f093735-ce28-4ae6-9aba-cec3de667843.png' alt='umee'  width='24.5%'>](https://umee.explorers.guru/validator/umeevaloper1wj6p0rgdpy8kkj3xa7e8t0g9tn9nyw4hltw2z2)
 > [<img src='https://user-images.githubusercontent.com/83868103/182946009-439e0aa3-b401-457a-b2ed-355f9f5ccb3a.png' alt='nym'  width='24.5%'>](https://mixnet.explorers.guru/mixnode/8fVEYyzsr6xWbgWv19CqiiAWr3ocskn3DU65MNSbQH2q)
 > [<img src='https://user-images.githubusercontent.com/83868103/182948413-cc5f023a-075b-4e0e-a0b7-6844531de93d.png' alt='mises'  width='24.5%'>](https://gw.mises.site/validators/misesvaloper1js09j57nge6yqphe9wvr8kp70le3wqg28qu0ga)
@@ -19,7 +19,8 @@
 > [<img src='https://user-images.githubusercontent.com/83868103/182952438-107df8a3-0ba5-43a2-af51-2090bd4647b2.png' alt='dig'  width='24.5%'>](https://look.chillvalidation.com/dig/staking/digvaloper17uf22fvmsg4r54hyxk7j9mxeq0y97fd86507z6)
 > [<img src='https://user-images.githubusercontent.com/83868103/184349404-6fac342d-62bb-4c40-be18-d680b2eae788.png' alt='genesisl1'  width='24.5%'>](https://ping.pub/genesisl1/staking)
 > # 
-> [<img src='https://user-images.githubusercontent.com/83868103/183112064-24d8012d-8808-49dd-add7-d1a631e18170.gif' alt='header'  width='99.5%'>]()
+> [<img src='https://user-images.githubusercontent.com/83868103/183112064-24d8012d-8808-49dd-add7-d1a631e18170.gif' alt='activetestnet'  width='99.5%'>]()
+> [<img src='https://user-images.githubusercontent.com/83868103/185071413-bc3e0d6b-3b83-4363-8386-871d239eea2e.png' alt='near'  width='24.5%'>](https://twitter.com/romanv1812/status/1555668416035491846)
 > [<img src='https://user-images.githubusercontent.com/83868103/183091235-8ae38996-fc0b-47a7-bf8c-41d90f844fa9.png' alt='aleo'  width='24.5%'>](https://twitter.com/romanv1812/status/1555668416035491846)
 > [<img src='https://user-images.githubusercontent.com/83868103/183156245-a71b7737-55c3-4bc5-900d-a9ee9d7f270b.png' alt='sui'  width='24.5%'>](https://node.sui.zvalid.com)
 > [<img src='https://user-images.githubusercontent.com/83868103/183155515-8630d69b-83b6-4654-a3d9-bd2edfd444c0.png' alt='obol'  width='24.5%'>](http://45.67.221.165:3000/d/singlenode/single-charon-node-dashboard?orgId=1&refresh=10s&from=now-1h&to=now)
@@ -37,7 +38,7 @@
 > [<img src='https://user-images.githubusercontent.com/83868103/182962330-460c7605-da76-4be1-ad66-1d57dc2b7124.png' alt='celestia'  width='24.5%'>](https://celestia.explorers.guru/validator/celestiavaloper1r4g3aey38d2a5hnc2a9j2hlnju6nyuprxerm59)
 > [<img src='https://user-images.githubusercontent.com/83868103/182963284-503ae018-878b-43ea-adfb-e1a1c206a748.png' alt='ironfish'  width='24.5%'>](https://testnet.ironfish.network/users/1385)
 > #
-> [<img src='https://user-images.githubusercontent.com/83868103/183119780-7b6a498b-11d9-4d15-b14c-836db65ca6f2.gif' alt='header'  width='99.5%'>]()
+> [<img src='https://user-images.githubusercontent.com/83868103/183119780-7b6a498b-11d9-4d15-b14c-836db65ca6f2.gif' alt='inactive'  width='99.5%'>]()
 > [<img src='https://user-images.githubusercontent.com/83868103/182965320-2cb55024-d956-46d7-8e20-d8de43d169ed.png' alt='humanode'  width='24.5%'>](https://umee.explorers.guru/validator/umeevaloper1wj6p0rgdpy8kkj3xa7e8t0g9tn9nyw4hltw2z2)
 > [<img src='https://user-images.githubusercontent.com/83868103/182966198-2f8111a8-2ef3-4635-9ba3-52525d224999.png' alt='kujira'  width='24.5%'>](https://umee.explorers.guru/validator/umeevaloper1wj6p0rgdpy8kkj3xa7e8t0g9tn9nyw4hltw2z2)
 > [<img src='https://user-images.githubusercontent.com/83868103/182967912-c2fda4e7-3c1b-425f-a8e0-22f2dcf73329.png' alt='masa'  width='24.5%'>](https://umee.explorers.guru/validator/umeevaloper1wj6p0rgdpy8kkj3xa7e8t0g9tn9nyw4hltw2z2)
