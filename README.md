@@ -24,7 +24,7 @@
 > [<img src='https://user-images.githubusercontent.com/83868103/185071413-bc3e0d6b-3b83-4363-8386-871d239eea2e.png' alt='near'  width='24.5%'>](https://explorer.shardnet.near.org/accounts/romanv1812.factory.shardnet.near)
 > [<img src='https://user-images.githubusercontent.com/83868103/183091235-8ae38996-fc0b-47a7-bf8c-41d90f844fa9.png' alt='aleo'  width='24.5%'>](https://twitter.com/romanv1812/status/1555668416035491846)
 > [<img src='https://user-images.githubusercontent.com/83868103/183156245-a71b7737-55c3-4bc5-900d-a9ee9d7f270b.png' alt='sui'  width='24.5%'>](https://node.sui.zvalid.com)
-> [<img src='https://user-images.githubusercontent.com/83868103/183155515-8630d69b-83b6-4654-a3d9-bd2edfd444c0.png' alt='obol'  width='24.5%'>](http://45.67.221.165:3000/d/singlenode/single-charon-node-dashboard?orgId=1&refresh=10s&from=now-1h&to=now)
+> [<img src='https://user-images.githubusercontent.com/83868103/183155515-8630d69b-83b6-4654-a3d9-bd2edfd444c0.png' alt='obol'  width='24.5%'>](https://prater.beaconcha.in/validator/92e134ec41fd7083e6dc60d038cc0d69c5c59d94453d3aa43f16ab5c869ee57d764d7323eb732e2926c7901caf3839e7#attestations)
 > [<img src='https://user-images.githubusercontent.com/83868103/182954059-7a1571e5-5b99-46b5-a619-d85f3ced3b31.png' alt='aptos'  width='24.5%'>](https://aptoslabs.com/it2)
 > [<img src='https://user-images.githubusercontent.com/83868103/182955775-28ebf7e3-9643-4a2c-b994-a6ba4ed5941b.png' alt='sei'  width='24.5%'>](https://sei.explorers.guru/validator/seivaloper1nx0nujc0j59japafz2ahhan08s4xme3vavjfxa)
 > [<img src='https://user-images.githubusercontent.com/83868103/182956478-4d1a13c1-236f-4599-b9a4-f329fb5f150f.png' alt='bundlr'  width='24.5%'>](https://bundlr.network/explorer/Ry2bDGfBIvYtvDPYnf0eg_ijH4A1EDKaaEEecyjbUQ4)
