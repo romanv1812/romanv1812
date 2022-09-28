@@ -19,7 +19,7 @@ I have extensive experience as a Linux administrator and over 2 years of working
 [<img src='https://user-images.githubusercontent.com/83868103/184349404-6fac342d-62bb-4c40-be18-d680b2eae788.png' alt='genesisl1'  width='24.5%'>](https://ping.pub/genesisl1/staking)
 [<img src='https://user-images.githubusercontent.com/83868103/182952438-107df8a3-0ba5-43a2-af51-2090bd4647b2.png' alt='dig'  width='24.5%'>](https://look.chillvalidation.com/dig/staking/digvaloper17uf22fvmsg4r54hyxk7j9mxeq0y97fd86507z6)
 [<img src='https://user-images.githubusercontent.com/83868103/182948413-cc5f023a-075b-4e0e-a0b7-6844531de93d.png' alt='mises'  width='24.5%'>](https://gw.mises.site/validators/misesvaloper1js09j57nge6yqphe9wvr8kp70le3wqg28qu0ga)
-[<img src='https://user-images.githubusercontent.com/83868103/190920304-b7291d78-931e-466f-af31-02786be7d2ca.png' alt='provenance'  width='24.5%'>](https://www.mintscan.io/provenance/validators/pbvaloper1lg5f9p0n8mtsgmjt6szg2jp74xmtgcmlyl9xtr)
+[<img src='https://user-images.githubusercontent.com/83868103/192865352-46a88da6-0643-4c6d-bddd-e30ce443fda4.png' alt='persistence'  width='24.5%'>](https://ping.pub/persistence/staking/persistencevaloper1ergkl6u2578lhcvdksnygj8uazkgc82k40ww28)
 # 
 [<img src='https://user-images.githubusercontent.com/83868103/183112064-24d8012d-8808-49dd-add7-d1a631e18170.gif' alt='activetestnet'  width='99.5%'>](https://github.com/romanv1812)
 [<img src='https://user-images.githubusercontent.com/83868103/185071413-bc3e0d6b-3b83-4363-8386-871d239eea2e.png' alt='near'  width='24.5%'>](https://explorer.shardnet.near.org/accounts/romanv1812.factory.shardnet.near)
