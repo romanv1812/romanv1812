@@ -2,7 +2,9 @@
 ### :bust_in_silhouette: Bio: 
 **My name is Roman, I am an individual validator from Ukraine. 
 I have extensive experience as a Linux administrator and over 2 years of working with nodes on Cosmos and Polkadot networks. Secure and reliable individual PoS/PoW validator, crypto enthusiast. 24hr management & monitoring! (Grafana & Prometeus & Telegram alerts)**
-#
+
+[<img src='https://user-images.githubusercontent.com/83868103/227937841-6e05b933-9534-49f1-808a-efe087a4f7cd.png' alt='Twitter'  width='16.5%'>](https://twitter.com/romanv1812)[<img src='https://user-images.githubusercontent.com/83868103/227935592-ea64badd-ceb4-4945-8dfc-f25c787fb29d.png' alt='TELEGRAM'  width='16.5%'>](https://t.me/romanv1812)[<img src='https://user-images.githubusercontent.com/83868103/227936479-a48e814b-3ec1-4dcb-bd44-96b02d8f55da.png' alt='MAIL'  width='16.5%'>](mailto:romanv1812@gmail.com)[<img src='https://user-images.githubusercontent.com/83868103/227948915-65731f97-c406-4d2c-996c-e5440ff67584.png' alt='GITHUB'  width='16.5%'>](https://github.com/romanv1812)
+
 ### :computer: Hardware:
 :earth_africa: **Location - [Hetzner DS](https://www.hetzner.com/dedicated-rootserver/ax101), [Ovhcloud](https://www.ovhcloud.com/de/bare-metal/), [Digitalocean](https://www.digitalocean.com/)  
 :black_small_square: Processor - AMD Ryzen 5950X (32 CPU, 128 RAM)  
