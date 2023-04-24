@@ -1,5 +1,4 @@
 
-[<img src='https://user-images.githubusercontent.com/83868103/192889523-e06d4365-209a-4759-a902-ee01d9bd0b86.gif' alt='mainnets'  width='99.5%'>](https://github.com/romanv1812)
 ### :bust_in_silhouette: Bio: 
 **My name is Roman, I am an individual validator from Ukraine. 
 I have extensive experience as a Linux administrator and over 2 years of working with nodes on Cosmos and Polkadot networks. Secure and reliable individual PoS/PoW validator, crypto enthusiast. 24hr management & monitoring! (Grafana & Prometeus & Telegram alerts)**
